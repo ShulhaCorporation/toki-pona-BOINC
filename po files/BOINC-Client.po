@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BOINC\n"
+"Report-Msgid-Bugs-To: BOINC translation team <boinc_loc@ssl.berkeley.edu>\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-08-22 15:22+0300\n"
+"Last-Translator: Олександр Жиденко <alexander.zhidenko@gmail.com>, "
+"2022,2024\n"
+"Language-Team: jan Tlakonta\n"
+"Language: tokipona\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "A new version of %s is available"
+msgstr "ilo ante sin %s li lon"
+
+msgid "A new version of BOINC is available"
+msgstr "ilo BOINC ante sin li lon"
+
+msgid ""
+"A newer version of BOINC is needed to use your NVIDIA GPU; please upgrade to "
+"the current version"
+msgstr "ilo BOINC li ken ala kepeken ilo sitelen NVIDIA.  o jo e ilo sin!"
+
+msgid "An %s GPU is required to run tasks for this project"
+msgstr "sina jo ala e ilo sitelen la sina ken ala pali lon kulupu ni %s"
+
+msgid "Couldn't write state file; check directory permissions"
+msgstr "ilo li ken ala pana e lipu nanpa tawa poki. o lukin e toki lawa poki."
+
+msgid "Download"
+msgstr "kama jo"
+
+msgid "Error in cc_config.xml options"
+msgstr "pakala li lon cc_config.xml"
+
+msgid "File referenced in app_info.xml does not exist: "
+msgstr "app_info.xml li lukin e lipu. taso lipu li lon ala. "
+
+msgid "Invalid or missing account key.  To fix, remove and add this project."
+msgstr ""
+"ilo open pi lipu jan sina li pakala anu lon ala. sina wile e pona la o weka "
+"e kulupu ni o jo e kulupu ni."
+
+msgid "Master URL changed from %s to %s"
+msgstr "nimi nasin %s li kama %s"
+
+msgid "Message from account manager"
+msgstr "toki tan lawa pi lipu jan"
+
+msgid "Message from server"
+msgstr "toki tan ilo sona lawa"
+
+msgid "Missing end tag in cc_config.xml"
+msgstr "cc_config.xml li jo ala e nimi pini"
+
+msgid "Missing end tag in nvc_config.xml"
+msgstr "nvc_config.xml li jo ala e nimi pini"
+
+msgid "Missing start tag in cc_config.xml"
+msgstr "cc_config.xml li jo ala e nimi open"
+
+msgid "Missing start tag in nvc_config.xml"
+msgstr "nvc_config.xml li jo ala e nimi open"
+
+msgid "Newer BOINC version required; please install current version"
+msgstr "sina ken ala kepeken e ante ni pi ilo BOINC. o kama jo e ante sin. "
+
+msgid "No tasks are available for the applications you have selected."
+msgstr "sina wile pali lon kulupu mute. taso pali li lon ala kulupu ni."
+
+msgid ""
+"Some tasks need more memory than allowed by your preferences.  Please check "
+"the preferences."
+msgstr ""
+"pali li wile e poki sona suli. taso toki wile sina li pana ala e poki sona. "
+"o lukin e toki wile."
+
+msgid "Syntax error in app_info.xml"
+msgstr "pakala toki li lon app_info.xml"
+
+msgid ""
+"Tasks for %s are available, but your preferences are set to not accept them"
+msgstr "pali li lon %s. taso toki wile sina li wile ala pana e ni"
+
+msgid "The HTTP_PROXY environment variable must specify an HTTP proxy"
+msgstr "nanpa HTTP_PROXY o sona e ilo HTTP pi sama toki"
+
+msgid ""
+"The project has changed its security key.  Please remove and add this "
+"project."
+msgstr "kulupu li ante e ilo open ona. o weka e kulupu o jo e kulupu"
+
+msgid "This project doesn't support CPU type"
+msgstr "kulupu ni li kepeken ala e ilo nanpa lawa (CPU) "
+
+msgid "This project doesn't support computers of type"
+msgstr "kulupu ni li kepeken ala e ilo sona "
+
+msgid "This project doesn't support operating system"
+msgstr "kulupu ni li kepeken ala e ilo lawa"
+
+msgid "Unexpected text in cc_config.xml"
+msgstr "mi sona ala e sitelen lon cc_config.xml"
+
+msgid "Unexpected text in nvc_config.xml"
+msgstr "mi sona ala e sitelen lon nvc_config.xml"
+
+msgid "Unrecognized tag in cc_config.xml"
+msgstr "mi sona ala e nimi lon cc_config.xml"
+
+msgid "Unrecognized tag in nvc_config.xml"
+msgstr "mi sona ala e nimi nvc_config.xml"
+
+msgid "Upgrade to the latest driver to process tasks using your computer's GPU"
+msgstr ""
+"sina pali kepeken ilo sitelen la o kama jo e ante sin pi ilo lawa. ilo lawa "
+"li lawa e ilo sitelen"
+
+msgid ""
+"Upgrade to the latest driver to use all of this project's GPU applications"
+msgstr ""
+"sina pali kepeken ilo sitelen la o kama jo e ante sin pi ilo lawa. ilo lawa "
+"li lawa e ilo sitelen"
+
+msgid ""
+"Your BOINC client software is too old.  Please install the current version."
+msgstr "ilo BOINC sina li tan tenpo pini mute! o kama jo e ante sin."
+
+msgid "Your app_info.xml file doesn't have a usable version of"
+msgstr "lipu app_info.xml li jo ala e ante pona pi"
+
+msgid "Your computer type is not supported by this project"
+msgstr "kulupu ni li kepeken ala e ilo sona sina"
+
+msgid ""
+"cannot be used for CUDA or OpenCL computation with CUDA driver 6.5 or later"
+msgstr ""
+"li ken ala pali nasin CUDA anu nasin OpenCL tan ni: ante pi ilo lawa CUDA li "
+"6.5 anu majuna"

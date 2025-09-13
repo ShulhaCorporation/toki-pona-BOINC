@@ -1,0 +1,2989 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BOINC\n"
+"Report-Msgid-Bugs-To: BOINC translation team <boinc_loc@ssl.berkeley.edu>\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-09-13 16:47+0300\n"
+"Last-Translator: Олександр Жиденко <alexander.zhidenko@gmail.com>, "
+"2017-2018,2022-2024\n"
+"Language-Team: jan Tlakonta\n"
+"Language: tokipona\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid " (non-CPU-intensive)"
+msgstr " (li kepeken ala e ilo nanpa lawa)"
+
+msgid " (project backoff: "
+msgstr " (toki tawa kulupu li weka lon: "
+
+msgid " (suspended - "
+msgstr " (lape - "
+
+msgid " at "
+msgstr " lon "
+
+msgid "%"
+msgstr "%"
+
+msgid "% of CPU time"
+msgstr "% tenpo pali pi ilo nanpa lawa"
+
+msgid "% of memory"
+msgstr "% poki sona"
+
+msgid "% of the CPUs and at most"
+msgstr "% tenpo pali suli nanpa wan pi ilo nanpa lawa"
+
+msgid "% of total"
+msgstr "% poki sona suli"
+
+msgid "%.3f%%"
+msgstr "%.3f%%"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s &help"
+msgstr "%s &sona pona"
+
+msgid "%s &web site"
+msgstr "%s &lipu lon kulupu linja"
+
+msgid "%s - (%s)"
+msgstr "%s - (%s)"
+
+msgid "%s - Communication"
+msgstr "%s - o pali e nasin toki"
+
+msgid "%s - Computing Preferences"
+msgstr "%s - toki wile pi pali nanpa"
+
+msgid "%s - Computing preferences"
+msgstr "%s - toki wile pi pali nanpa"
+
+msgid "%s - Connection Error"
+msgstr "%s - nasin toki li ike"
+
+msgid "%s - Connection Failed"
+msgstr "%s - nasin toki li pakala"
+
+msgid "%s - Connection Status"
+msgstr "%s - pilin pi nasin toki"
+
+msgid "%s - Daemon Start Failed"
+msgstr "%s - open pi ilo Daemon li pakala"
+
+msgid "%s - Event Log"
+msgstr "%s - lipu tenpo"
+
+msgid "%s - Exclusive Applications"
+msgstr "%s - ilo ante wawa"
+
+msgid "%s - Exit Confirmation"
+msgstr "%s - wile pini"
+
+msgid "%s - Language Selection"
+msgstr "%s - o ante e toki"
+
+msgid "%s - Network Status"
+msgstr "%s - pilin pi kulupu linja"
+
+msgid "%s - Notices"
+msgstr "%s - toki sin tawa sina"
+
+msgid "%s - Select Computer"
+msgstr "%s - o wile e ilo sona"
+
+msgid "%s - Shut down the current client..."
+msgstr "%s - o pini e ilo pali ni..."
+
+msgid "%s - Stop using %s"
+msgstr "%s - o pini e %s"
+
+msgid "%s - Unexpected Exit"
+msgstr "%s - pini pi wile ala"
+
+msgid "%s Column Selection"
+msgstr "%s wile palisa"
+
+msgid "%s Diagnostic Log Flags"
+msgstr "%s sitelen lili pi lipu pi alasa pakala"
+
+msgid "%s Notices"
+msgstr "toki sin tawa sina %s"
+
+msgid "%s failed to connect to the Internet."
+msgstr "%s li ken ala open toki lon kulupu linja."
+
+msgid "%s failed to disconnected from the Internet."
+msgstr "%s li ken ala pini toki lon kulupu linja."
+
+msgid ""
+"%s has detected it is now connected to the Internet.\n"
+"Updating all projects and retrying all transfers."
+msgstr ""
+"%s li sona e ni: kulupu linja li open.\n"
+"ona li esun e lipu nanpa li kama sona e ijo sin kulupu."
+
+msgid "%s has successfully added %s"
+msgstr "%s li pana e %s"
+
+msgid "%s has successfully connected to the Internet."
+msgstr "%s li open e toki lon kulupu linja."
+
+msgid "%s has successfully disconnected from the Internet."
+msgstr "%s li pini e toki lon kulupu linja."
+
+msgid "%s is connecting to the Internet."
+msgstr "%s li kama open e toki lon kulupu linja."
+
+msgid "%s is distributed under the GNU Lesser General Public License v3.0."
+msgstr "lipu lawa GNU LGPL v 3.0 la jan li ken pana e %s."
+
+msgid ""
+"%s is not able to connect to a %s client.\n"
+"Would you like to try to connect again?"
+msgstr ""
+"%s li ken ala toki tawa ilo lupa%s.\n"
+"sina wile ala wile sama toki?"
+
+msgid ""
+"%s is not able to start a %s client.\n"
+"Please launch the Control Panel->Administrative Tools->Services applet and "
+"start the BOINC service."
+msgstr ""
+"%s li ken ala open e ilo lupa%s.\n"
+"o open e Control Panel->Administrative Tools->Services. o open e ilo BOINC."
+
+msgid ""
+"%s is not able to start a %s client.\n"
+"Please run the client and try again."
+msgstr ""
+"%s li ken ala open e ilo lupa%s.\n"
+"o open e ilo lupa. o sama."
+
+msgid "%s is not connected to the client"
+msgstr "%s li toki ala tawa ilo lupa"
+
+msgid ""
+"%s is not currently connected to a %s client.\n"
+"Please use the 'Advanced\\Select Computer...' menu option to connect up to a "
+"%s client.\n"
+"To connect up to your local computer please use 'localhost' as the host name."
+msgstr ""
+"%s li toki ala tawa ilo lupa %s.\n"
+"sina wile kepeken ilo %s la o kepeken 'Advanced\\Select Computer...'.\n"
+"sina wile kepeken ilo tomo sina la o kepeken nimi 'localhost'."
+
+msgid ""
+"%s needs to connect to the Internet.\n"
+"May it do so now?"
+msgstr ""
+"%s li wile toki lon kulupu linja.\n"
+"sina wile ala wile pana e ken?"
+
+msgid ""
+"%s ownership or permissions are not set properly; please reinstall %s.\n"
+"(Error code %d"
+msgstr ""
+"%s lipu ken li ike. o kama jo e %s.\n"
+"(pakala nanpa %d"
+
+msgid "%s task request deferral interval"
+msgstr "tenpo awen pi wile pali %s"
+
+msgid "%s task request deferred for"
+msgstr "wile toki pi %s li weka lon tenpo"
+
+msgid "%s total, %s average"
+msgstr "%s ale. %s ale kipisi tenpo ale"
+
+msgid ""
+"%s will shut down the current client\n"
+"and prompt you for another host to connect to."
+msgstr ""
+"%s li pini e ilo lupa ni\n"
+"li wile e nimi nasin tan ni: ona li wile toki tawa ilo sona ante."
+
+msgid "%s will use the most restrictive of the above settings"
+msgstr "%s li kama kepeken e toki wile lon sewi pi wawa nanpa wan"
+
+msgid "&%s help"
+msgstr "&%s sona pona"
+
+msgid "&About %s..."
+msgstr "&sona pi %s..."
+
+msgid "&Activity"
+msgstr "&pali"
+
+msgid "&Add project..."
+msgstr "&o jo e kulupu..."
+
+msgid "&Clear Default"
+msgstr "&tenpo open la toki li lon ala"
+
+msgid "&Close"
+msgstr "&pini"
+
+msgid "&Close window"
+msgstr "&o pini e lupa"
+
+msgid "&Disk\tCtrl+Shift+D"
+msgstr "&sike sona\t Ctrl+Shift+D"
+
+msgid "&Email address or LDAP ID:"
+msgstr "&nimi nasin pi esun lipu kon anu LDAP ID:"
+
+msgid "&Email address:"
+msgstr "&nimi nasin pi esun lipu kon:"
+
+msgid "&File"
+msgstr "&lipu nanpa"
+
+msgid "&Finish"
+msgstr "&pini"
+
+msgid "&Help"
+msgstr "&sona pona"
+
+msgid "&Next >"
+msgstr "&tawa sinpin >"
+
+msgid "&Next project >"
+msgstr "&kulupu lon sinpin >"
+
+msgid "&No, new user"
+msgstr "&ala, jan sin"
+
+msgid "&Notices\tCtrl+Shift+N"
+msgstr "&toki sin\t Ctrl+Shift+N"
+
+msgid "&OK"
+msgstr "&pona"
+
+msgid "&Options"
+msgstr "&toki wile"
+
+msgid "&Other options..."
+msgstr "&toki wile ante..."
+
+msgid "&Password:"
+msgstr "&nimi open:"
+
+msgid "&Projects\tCtrl+Shift+P"
+msgstr "&kulupu\t Ctrl+Shift+P"
+
+msgid "&Quit %s"
+msgstr "&weka tan %s"
+
+msgid "&Run always"
+msgstr "&pali lon tenpo ale"
+
+msgid "&Save"
+msgstr "&awen"
+
+msgid "&Set Default"
+msgstr "&toki lon tenpo open"
+
+msgid "&Show only this project"
+msgstr "&o sitelen e kulupu ni taso"
+
+msgid "&Statistics\tCtrl+Shift+S"
+msgstr "&nanpa pali\t Ctrl+Shift+S"
+
+msgid "&Suspend"
+msgstr "&lape"
+
+msgid "&Synchronize with %s"
+msgstr "&kama sama %s"
+
+msgid "&Tasks\tCtrl+Shift+T"
+msgstr "&pali\t Ctrl+Shift+T"
+
+msgid "&Tools"
+msgstr "&ilo"
+
+msgid "&Use account manager..."
+msgstr "&kepeken ilo pi lipu jan..."
+
+msgid "&Username:"
+msgstr "&nimi jan:"
+
+msgid "&View"
+msgstr "&sitelen"
+
+msgid "&Yes, existing user"
+msgstr "&pona. jan li lon"
+
+msgid "'%s' does not contain a valid host name."
+msgstr "'%s' li jo ala e nimi pona pi ilo sona lawa."
+
+msgid "'%s' does not contain a valid path."
+msgstr "nasin '%s' li lon ala."
+
+msgid "'%s' is already in the list."
+msgstr "tenpo ni la '%s' li lon lipu."
+
+msgid "'In use' means mouse or keyboard input in last"
+msgstr ""
+"„mi kepeken ilo sona“ li ni: sina kepeken ilo pi sitelen nimi anu ilo luka "
+"lon tenpo"
+
+msgid "'In use' means mouse/keyboard input in last"
+msgstr ""
+"„mi kepeken ilo sona“ li ni: sina kepeken ilo pi sitelen nimi/ilo luka lon "
+"tenpo"
+
+msgid ")"
+msgstr ")"
+
+msgid "-"
+msgstr "-"
+
+msgid "---"
+msgstr "---"
+
+msgid ""
+".\n"
+"You can enable it using the Activity menu."
+msgstr ""
+".\n"
+"sina ken wawa e ni kepeken nena \"pali\"."
+
+msgid "1 day"
+msgstr "tenpo suno 1"
+
+msgid "1 hour"
+msgstr "tenpo ilo suli 1"
+
+msgid "1 week"
+msgstr "tenpo esun 1"
+
+msgid "6 hours"
+msgstr "tenpo ilo suli 6"
+
+msgid "< &Back"
+msgstr "< &tawa monsi"
+
+msgid "< &Previous project"
+msgstr "< &kulupu lon monsi"
+
+msgid "A link to the Einstein@Home problems and bug reports message board"
+msgstr "lipu toki ni la sina ken toki e pakala pi ilo Einstein@Home"
+
+msgid ""
+"A reboot is required in order for BOINC to run properly.\n"
+"Please reboot your computer and try again."
+msgstr ""
+"ilo BOINC li ken ala pali pona.\n"
+"o pini o open e ilo sona."
+
+msgid "Abandon this task. You will get no credit for it."
+msgstr "sina weka e pali ni anu seme? weka la sina kama ala jo e nanpa pali."
+
+msgid "Abandon work on the result. You will get no credit for it."
+msgstr "sina weka e pali ni anu seme? weka la sina kama ala jo e nanpa pali."
+
+msgid "Abort"
+msgstr "pini pali"
+
+msgid "Abort File Transfer"
+msgstr "pini pana pi lipu nanpa"
+
+msgid "Abort Transfer"
+msgstr "pini pana"
+
+msgid "Abort task"
+msgstr "o pini pali e pali"
+
+msgid "Abort this file transfer.  You won't get credit for the task."
+msgstr ""
+"sina wile pini e pana pi lipu nanpa anu seme? pini la sina kama ala jo e "
+"nanpa pali."
+
+msgid "Aborted"
+msgstr "ni li pini"
+
+msgid "Aborted by project"
+msgstr "kulupu li pini e ni"
+
+msgid "Aborted by user"
+msgstr "jan li pini e ni"
+
+msgid "Aborted: memory limit exceeded"
+msgstr "ni li kepeken e poki sona mute. ni li pini"
+
+msgid "Aborted: not started by deadline"
+msgstr "pali li pini tan ni: tenpo moli la ona li open ala"
+
+msgid "Aborted: run time limit exceeded"
+msgstr "pali li pini tan ni: tenpo moli li kama"
+
+msgid "Aborted: task disk limit exceeded"
+msgstr "pali li pini tan ni: ona li kepeken mute e poki sona suli"
+
+msgid "About %s"
+msgstr "sona pi %s"
+
+msgid "Account"
+msgstr "lipu jan"
+
+msgid "Account manager &URL:"
+msgstr "&nasin URL pi lawa pi lipu jan:"
+
+msgid "Account manager details:"
+msgstr "sona namako pi lawa pi lipu jan:"
+
+msgid "Account manager not found"
+msgstr "lawa pi lipu jan li lon ala"
+
+msgid "Account manager preference"
+msgstr "toki wile pi lawa pi lipu jan"
+
+msgid "Account manager temporarily unavailable"
+msgstr "tenpo ni la lawa pi lipu jan li wawa ala"
+
+msgid "Account manager web site"
+msgstr "lipu kulupu linja pi lawa pi lipu jan"
+
+msgid "Account summary"
+msgstr "sona pi lipu jan"
+
+msgid "Acknowledged"
+msgstr "pona"
+
+msgid "Add Exclusive App"
+msgstr "o kama jo e ilo ante wawa"
+
+msgid "Add Project"
+msgstr "kama jo kulupu"
+
+msgid "Add a project"
+msgstr "o kama jo e kulupu"
+
+msgid "Add an application to this list"
+msgstr "o pana e ilo ante tawa lipu ni"
+
+msgid "Add exclusive app"
+msgstr "o pana e ilo ante wawa"
+
+msgid "Add project"
+msgstr "kama jo kulupu"
+
+msgid "Add..."
+msgstr "o jo..."
+
+msgid "Added via account manager"
+msgstr "ilo pi lipu jan li pana e ni"
+
+msgid "Address:"
+msgstr "nasin:"
+
+msgid "Advanced View...\tCtrl+Shift+A"
+msgstr "sitelen suli...\t Ctrl+Shift+A"
+
+msgid "All"
+msgstr "ale"
+
+msgid "All projects (separate)"
+msgstr "kulupu ale (kipisi)"
+
+msgid "All projects (sum)"
+msgstr "kulupu ale (kipisi en kipisi en...)"
+
+msgid "All projects (together)"
+msgstr "kulupu ale (ijo wan)"
+
+msgid "Allow GPU work according to preferences"
+msgstr "o pali kepeken ilo sitelen o kute e toki wile"
+
+msgid "Allow GPU work regardless of preferences"
+msgstr "tenpo ale la o pali kepeken ilo sitelen. o kute ala e toki wile"
+
+msgid "Allow fetching new tasks for this project."
+msgstr "o pana e ken pi wile pali lon kulupu ni."
+
+msgid "Allow network activity according to preferences"
+msgstr "o pana e ken ni: toki wile la ilo sona li toki lon kulupu linja"
+
+msgid "Allow network activity regardless of preferences"
+msgstr "o pana e ken ni: ilo sona li toki lon kulupu linja"
+
+msgid "Allow new tasks"
+msgstr "o pana e ken pi jo pali sin"
+
+msgid "Allow work according to preferences"
+msgstr "o pana e ken ni: toki wile la pali"
+
+msgid "Allow work regardless of preferences"
+msgstr "o pana e ken pali "
+
+msgid ""
+"An account with that email address already exists and has a\n"
+"different password than the one you entered.\n"
+"\n"
+"Please visit the project's web site and follow the instructions there."
+msgstr ""
+"lipu jan ante li jo e nimi nasin pi ilo toki lipu sama nimi nasin sina. \n"
+"nimi open ona en nimi open sina li ante. \n"
+"\n"
+"o lukin e lipu linja kulupu pi kulupu ni o kute e toki lawa."
+
+msgid ""
+"An account with that username already exists and has a\n"
+"different password than the one you entered.\n"
+"\n"
+"Please visit the project's web site and follow the instructions there."
+msgstr ""
+"lipu jan ante li jo e nimi sama nimi pi lipu jan sina. \n"
+"nimi open ona en nimi open sina li ante. \n"
+"\n"
+"o lukin e lipu linja kulupu pi kulupu ni o kute e toki lawa."
+
+msgid "An internal server error has occurred."
+msgstr "pakala li lon ilo sona lawa."
+
+msgid "An internal server error has occurred.\n"
+msgstr "pakala li lon ilo sona lawa.\n"
+
+msgid ""
+"Another instance of %s is already running \n"
+"on this computer.  Please select a client to monitor."
+msgstr ""
+"ijo ante %s li pali.\n"
+"lon ilo sona ni.  o wile e ilo lupa."
+
+msgid "Application"
+msgstr "ilo ante"
+
+msgid "Application: %s"
+msgstr "ilo ante: %s"
+
+msgid "Application: Not available"
+msgstr "ilo ante: li wawa ala"
+
+msgid "Apply"
+msgstr "kepeken"
+
+msgid "Are you already running %s?"
+msgstr "sina kepeken ala kepeken e %s?"
+
+msgid "Are you already running this project?"
+msgstr "sina kepeken ala kepeken e kulupu ni?"
+
+msgid "Are you sure you want to abort these %d tasks?"
+msgstr "sina wile ala wile pini e pali %d ni?"
+
+msgid ""
+"Are you sure you want to abort this file transfer '%s'?\n"
+"NOTE: Aborting a transfer will invalidate a task and you\n"
+"will not receive credit for it."
+msgstr ""
+"sina wile ala wile pini e pana pi lipu nanpa'%s'?\n"
+"O SONA: pali pi kepeken lipu nanpa ni li pini li pakala.\n"
+"sina kama jo e nanpa pali ala."
+
+msgid ""
+"Are you sure you want to abort this task '%s'?\n"
+"(Progress: %.1lf%%, Status: %s)"
+msgstr ""
+"sina wile ala wile pini e pali '%s'?\n"
+"(pali pini: %.1lf%%, pilin: %s)"
+
+msgid ""
+"Are you sure you want to abort this task '%s'?\n"
+"(Progress: %s, Status: %s)"
+msgstr ""
+"sina wile ala wile pini e pali '%s'?\n"
+"(pali pini: %s, pilin: %s)"
+
+msgid "Are you sure you want to remove project '%s'?"
+msgstr "sina wile ala wile weka e kulupu '%s'?"
+
+msgid ""
+"Are you sure you want to reset all list columns to the default "
+"configurations?"
+msgstr ""
+"sina wile ala wile e ni: nanpa pi palisa lipu li kama nanpa pi tenpo open?"
+
+msgid "Are you sure you want to reset project '%s'?"
+msgstr "sina wile ala wile e ni: kulupu '%s' li pini li open?"
+
+msgid "Ask questions and report problems"
+msgstr "o toki e pakala. o wile e sona."
+
+msgid "Autodetect"
+msgstr "lukin ilo"
+
+msgid "Avg. work done"
+msgstr "pali nasa ala pi tenpo suno"
+
+msgid "BOINC Manager"
+msgstr "ilo lawa BOINC"
+
+msgid "BOINC Manager was started by the operating system automatically"
+msgstr "ilo lawa pi ilo sona li open e ilo BOINC"
+
+msgid "BOINC data directory"
+msgstr "poki lipu pi ilo BOINC"
+
+msgid ""
+"BOINC failed to communicate on the Internet.\n"
+"The most likely reasons are:\n"
+"\n"
+"1) Connectivity problem.  Check your network\n"
+"or modem connection and then click Back to try again.\n"
+"\n"
+"2) Personal firewall software is blocking BOINC.\n"
+"Configure your personal firewall to let BOINC and\n"
+"BOINC Manager communicate on port 80,\n"
+"then click Back to try again.\n"
+"\n"
+"3) You are using a proxy server.\n"
+"Click Next to configure BOINC's proxy settings."
+msgstr ""
+"ilo BOINC li ken ala toki tawa kulupu linja.\n"
+"ni li ken tan ni:\n"
+"1) linja li pakala.  o lukin e ilo toki nanpa anu toki wile\n"
+"pi toki kulupu linja. toki pi kulupu linja li lon la \n"
+"o kepeken nena pi tawa monsi. o sama.\n"
+"\n"
+"2) ilo sina pi awen kulupu linja li weka e ken toki tan ilo BOINC.\n"
+"o open e toki wile pi ilo pi awen kulupu.\n"
+"lupa nanpa 80 la o pana e ken toki tawa ilo BOINC.\n"
+"o kepeken e nena pi tawa monsi. o sama.\n"
+"\n"
+"3) sina kepeken e ilo kulupu linja pi sama toki.\n"
+"o kepeken e nena pi tawa sinpin. o ante e toki wile pi ilo BOINC."
+
+msgid "C&onfirm password:"
+msgstr "o s&ama e nimi open:"
+
+msgid "CPU"
+msgstr "ilo nanpa lawa"
+
+msgid "CPU benchmarks in progress"
+msgstr "mi wile sona e wawa pi ilo nanpa lawa. mi pali."
+
+msgid "CPU is busy"
+msgstr "ilo nanpa lawa li pali e pali ante"
+
+msgid "CPU time"
+msgstr "tenpo pi ilo nanpa lawa"
+
+msgid "CPU time since checkpoint"
+msgstr "tenpo pi ilo nanpa lawa tan tenpo awen"
+
+msgid "Cancel"
+msgstr "o ala"
+
+msgid "Categories:"
+msgstr "kipisi:"
+
+msgid ""
+"Changing to use the local preferences defined on this page. This will "
+"override your web-based preferences, even if you subsequently make changes "
+"there. Do you want to proceed?"
+msgstr ""
+"ante pi toki wile tomo lon lipu ni. ni li sitelen ante e toki wile pi ilo "
+"lon kulupu linja. sina wile ala wile e ni?"
+
+msgid "Check for new %s version"
+msgstr "o lukin e ante sin %s"
+
+msgid "Check the email address and password, and try again."
+msgstr "o lukin e nimi nasin pi ilo esun lipu e nimi open. o sama."
+
+msgid "Check the username and password, and try again."
+msgstr "o lukin e nimi jan e nimi open. o sama."
+
+msgid ""
+"Check this only if your Internet provider modifies image files. Skipping "
+"verification reduces the security of %s."
+msgstr ""
+"kulupu lawa pi kulupu linja sina li ante e lipu nanpa la o kepeken e ijo ni. "
+"taso awen pi %s li kama ike."
+
+msgid "Check this to suspend GPU computing when you're using the computer."
+msgstr "ijo ni la sina kepeken e ilo sona la ilo sitelen li pali ala."
+
+msgid ""
+"Check this to suspend computing and file transfers when you're using the "
+"computer."
+msgstr ""
+"ijo ni la sina kepeken e ilo sona la ilo sona li pana ala e lipu nanpa li "
+"pali ala."
+
+msgid ""
+"Check this to suspend computing on portables when running on battery power."
+msgstr "ijo ni la ilo sona li moku e wawa tan poki wawa la ona li pali ala."
+
+msgid "Choose a &password:"
+msgstr "o sitelen e &nimi open:"
+
+msgid "Choose a project"
+msgstr "o wile e kulupu"
+
+msgid "Choose an account manager"
+msgstr "o wile e ilo lawa pi lipu jan"
+
+msgid "Choose application or enter file name"
+msgstr "o wile e ilo ante anu sitelen e nimi pi lipu nanpa"
+
+msgid "Click Finish to close."
+msgstr "wile pini la o kepeken e nena pini"
+
+msgid "Click to use web prefs from"
+msgstr "sina wile kepeken e toki wile lipu la o kepeken e ni"
+
+msgid "Client configuration excludes "
+msgstr "nasin pi ilo lupa li weka e "
+
+msgid "Close"
+msgstr "pini"
+
+msgid "Close application graphics window."
+msgstr "o pini e lupa sitelen"
+
+msgid "Close the %s window"
+msgstr "o pini e lupa %s"
+
+msgid "Close the dialog without saving"
+msgstr "o pini e toki. o awen ala e ante."
+
+msgid "Commands"
+msgstr "wile"
+
+msgid "Common questions"
+msgstr "toki nasa ala pi wile sona"
+
+msgid "Communicating with %s."
+msgstr "mi wile toki tawa %s."
+
+msgid "Communicating with BOINC client.  Please wait ..."
+msgstr "mi toki tawa ilo lupa BOINC. o awen..."
+
+msgid ""
+"Communicating with project\n"
+"Please wait..."
+msgstr ""
+"mi toki tawa kulupu\n"
+"o awen..."
+
+msgid "Communicating with server."
+msgstr "mi toki tawa ilo sona lawa"
+
+msgid "Communication deferred"
+msgstr "toki li weka"
+
+msgid "Completion Before Deadline"
+msgstr "tenpo pini pi tenpo moli la pini "
+
+msgid "Computation error"
+msgstr "pakala pi pali nanpa"
+
+msgid "Compute only between"
+msgstr "o pali lon insa tenpo "
+
+msgid "Compute only during a particular period each day."
+msgstr "o pali lon tenpo wile pi tenpo suno."
+
+msgid "Computer ID"
+msgstr "nanpa pi ilo sona"
+
+msgid "Computing"
+msgstr "pali nanpa"
+
+msgid "Computing &preferences..."
+msgstr "toki wile pi &pali nanpa..."
+
+msgid "Computing is enabled"
+msgstr "ona li ken pali nanpa"
+
+msgid "Computing is suspended - "
+msgstr "pali nanpa li awen pini - "
+
+msgid "Configure computing preferences"
+msgstr "o ante e toki wile pi pali nanpa"
+
+msgid "Configure display options and network settings"
+msgstr "o ante e sitelen e kulupu linja"
+
+msgid "Configure display options and proxy settings"
+msgstr "o ante e sitelen e ilo pi sama toki"
+
+msgid "Configure exclusive applications"
+msgstr "o ante e ilo ante wawa"
+
+msgid "Confirm before connecting to Internet"
+msgstr "tenpo pini pi toki tawa kulupu linja la o pana e ken"
+
+msgid "Confirm defaults"
+msgstr "o pana e ken tawa nanpa pi tenpo open"
+
+msgid "Confirmation"
+msgstr "pana ken"
+
+msgid "Connect to a BOINC client on another computer"
+msgstr "o toki tawa ilo lupa BOINC lon ilo sona ante"
+
+msgid "Connect via HTTP proxy server"
+msgstr "o kepeken e ilo HTTP pi sama toki"
+
+msgid "Connect via SOCKS proxy server"
+msgstr "o kepeken e ilo SOCKS pi sama toki"
+
+msgid "Connected"
+msgstr "linja toki li lon"
+
+msgid "Connected to %s (%s)"
+msgstr "ona li toki tawa %s (%s)"
+
+msgid "Connecting to %s"
+msgstr "mi pana e linja toki tawa %s"
+
+msgid "Connections"
+msgstr "linja toki mute"
+
+msgid "Copy &All"
+msgstr "o sama e &ale"
+
+msgid "Copy &Selected"
+msgstr "o sama e &ijo wile"
+
+msgid "Copy all messages"
+msgstr "o sama e lipu toki ale"
+
+msgid "Copy all the messages to the clipboard."
+msgstr "o sama e lipu toki ale. o tawa e ni tawa poki lipu."
+
+msgid "Copy selected messages"
+msgstr "o sama e lipu toki wile"
+
+msgid ""
+"Copy the selected messages to the clipboard. You can select multiple "
+"messages by holding down the shift or command key while clicking on messages."
+msgstr ""
+"o sama e lipu toki wile. o tawa e ni tawa poki lipu. nena SHIFT anu nena "
+"CTRL la sina ken wile e lipu mute."
+
+msgid ""
+"Copy the selected messages to the clipboard. You can select multiple "
+"messages by holding down the shift or control key while clicking on messages."
+msgstr ""
+"o sama e lipu toki wile. o tawa e ni tawa poki lipu. nena SHIFT anu nena "
+"CTRL la sina ken wile e lipu mute."
+
+msgid "Copying all messages to the clipboard..."
+msgstr "mi tawa e lipu toki ale tawa poki lipu..."
+
+msgid "Copying selected messages to the clipboard..."
+msgstr "mi tawa e lipu toki wile tawa poki lipu..."
+
+msgid "Copyright:"
+msgstr "ken lawa pi jan pali:"
+
+msgid ""
+"Correspond with admins and other users on the Einstein@Home message boards"
+msgstr ""
+"o toki tawa jan pali tawa jan lawa pi kulupu Einstein@Home kepeken lipu toki"
+
+msgid "Correspond with other users on the SETI@home message boards"
+msgstr "o toki tawa jan pali ale pi kulupu SETI@home kepeken lipu toki"
+
+msgid "Credit"
+msgstr "nanpa pali"
+
+msgid "Current status of the Einstein@Home server"
+msgstr "sona sin pi ilo sona lawa Einstein@Home"
+
+msgid "Daily schedules"
+msgstr "lipu tenpo lawa pi tenpo suno"
+
+msgid "Day-of-week override"
+msgstr "ante pi tenpo suno pi tenpo esun "
+
+msgid "Deadline"
+msgstr "o pana lon tenpo pini pi tenpo"
+
+msgid "Default"
+msgstr "tenpo open"
+
+msgid "Default Connection:"
+msgstr "linja toki pi tenpo open:"
+
+msgid "Defaults"
+msgstr "ijo pi tenpo open"
+
+msgid ""
+"Delete all files and tasks associated with this project, and get new tasks.  "
+"You can update the project first to report any completed tasks."
+msgstr ""
+"o weka e lipu nanpa ale e pali ale pi kulupu ni. o kama jo e pali sin.  sina "
+"wile pana e pali pini la o kama jo e sona kulupu sin."
+
+msgid "Device Profiles"
+msgstr "toki wile pi ilo sona"
+
+msgid "Dial-up and Virtual Private Network settings"
+msgstr ""
+"toki wile pi kulupu linja tan ilo toki en toki wile pi ilo len pi kulupu "
+"linja"
+
+msgid "Directory"
+msgstr "poki"
+
+msgid "Directory containing the BOINC Client executable"
+msgstr "poki pi lipu wawa pi ilo BOINC"
+
+msgid "Discard all local preferences and use web-based preferences?"
+msgstr ""
+"o weka e toki wile tomo ale o kepeken e toki wile pi kulupu linja anu seme?"
+
+msgid "Discard local preferences and use web-based preferences?"
+msgstr ""
+"o weka e toki wile tomo o kepeken e toki wile pi kulupu linja anu seme?"
+
+msgid "Disconnect when done"
+msgstr "pali li pini la o pini e toki"
+
+msgid "Disconnected"
+msgstr "toki li pini"
+
+msgid "Disk"
+msgstr "poki sona suli"
+
+msgid "Disk usage"
+msgstr "mute kepeken pi poki sona suli"
+
+msgid "Disk usage by BOINC projects"
+msgstr "kulupu ale li kepeken e mute ni pi poki sona suli"
+
+msgid "Display a status icon in the system menu bar."
+msgstr "o sitelen e sitelen pilin lon lupa wile"
+
+msgid "Display confirmation dialog when shutting down the connected client."
+msgstr "sina pini e ilo lupa la o sitelen e lupa toki."
+
+msgid "Display diagnostic messages."
+msgstr "o sitelen e lupa toki pi lukin pakala."
+
+msgid "Display the advanced graphical interface."
+msgstr "o pana e nasin sitelen ante."
+
+msgid "Display the exit dialog when shutting down the Manager."
+msgstr "sina pini e ilo BOINC la o sitelen e lupa toki."
+
+msgid "Do you really want to cancel?"
+msgstr "sina wile ala wile weka?"
+
+msgid "Don't fetch new tasks for this project."
+msgstr "o wile ala e pali sin tan kulupu ni."
+
+msgid "Don't get new tasks for this project."
+msgstr "o wile ala e pali sin tan kulupu ni."
+
+msgid "Don't request tasks"
+msgstr "o wile ala e pali"
+
+msgid "Don't request tasks for "
+msgstr "o wile ala pali lon "
+
+msgid "Don't run the client"
+msgstr "o open ala e ilo"
+
+msgid "Don't show this dialog again."
+msgstr "o sitelen ala e lupa toki ni."
+
+msgid "Don't use proxy for:"
+msgstr "o kepeken ala e ilo pi sama toki tawa:"
+
+msgid "Download"
+msgstr "kama jo"
+
+msgid "Download failed"
+msgstr "kama jo li pakala"
+
+msgid "Downloading"
+msgstr "mi kama jo"
+
+msgid "Downloading work from the server."
+msgstr "mi kama jo e pali tan ilo sona lawa"
+
+msgid "Duration correction factor"
+msgstr "nanpa pi pona tenpo"
+
+msgid "E&xit"
+msgstr "w&eka"
+
+msgid "E&xit %s"
+msgstr "o &weka %s"
+
+msgid "Einstein status"
+msgstr "ilo sona lawa Einstein@Home li piliin e ni:"
+
+msgid "Elapsed"
+msgstr "mute pi tenpo pini"
+
+msgid "Elapsed time"
+msgstr "mute pi tenpo pini"
+
+msgid "Elapsed: %s"
+msgstr "mute pini: %s"
+
+msgid "Email address already in use"
+msgstr "jan ante li kepeken e nimi ni pi ilo esun lipu"
+
+msgid "Enable Client shutdown dialog?"
+msgstr "sina wile ala wile e lupa toki pi pini ilo?"
+
+msgid "Enable Manager exit dialog?"
+msgstr "sina wile ala wile e lupa toki pi weka tan ilo?"
+
+msgid "Enable or disable various diagnostic messages"
+msgstr "open anu pini pi toki ante pi lukin pakala"
+
+msgid "Ended"
+msgstr "ona li pini"
+
+msgid "Error: invalid state '%d'"
+msgstr "pakala: nimi ike '%d'"
+
+msgid "Estimated Completion"
+msgstr "ken pini"
+
+msgid "Estimated computation size"
+msgstr "ken la mute pi pali nanpa li"
+
+msgid "Estimated time remaining"
+msgstr "pini li lon tenpo"
+
+msgid "Event Log options...\tCtrl+Shift+F"
+msgstr "toki wile pi lipu tenpo...\tCtrl+Shift+F"
+
+msgid "Event Log...\tCtrl+Shift+E"
+msgstr "lipu tenpo...\tCtrl+Shift+E"
+
+msgid "Example: %s should transfer at most 2000 MB of data every 30 days."
+msgstr "ijo lukin: tenpo suno 30 la %s o pana e sona pi lili tawa 2000 MB."
+
+msgid "Exclusive applications..."
+msgstr "ilo ante wawa..."
+
+msgid "Executable"
+msgstr "ken pali"
+
+msgid "Exit %s"
+msgstr "o weka tan %s"
+
+msgid "Failed to add account manager"
+msgstr "mi ken ala pana e ilo lawa pi lipu jan"
+
+msgid "Failed to add project"
+msgstr "mi ken ala kama jo e kulupu"
+
+msgid "Failed to remove account manager"
+msgstr "mi ken ala weka e ilo lawa pi lipu jan"
+
+msgid "Failed to update account manager"
+msgstr "mi ken ala kama jo e ilo lawa sin pi lipu jan"
+
+msgid "Fetching notices; please wait..."
+msgstr "mi kama jo e lipu toki. o awen..."
+
+msgid "File"
+msgstr "lipu nanpa"
+
+msgid "File downloads deferred for"
+msgstr "mi kama jo e lipu nanpa lon tenpo"
+
+msgid "File uploads deferred for"
+msgstr "mi kama pana e lipu nanpa lon tenpo"
+
+msgid "Filtering messages..."
+msgstr "mi lukin e lipu toki pona..."
+
+msgid ""
+"For additional settings, select Computing Preferences in the Advanced View."
+msgstr ""
+"sina wile e toki wile namako la o kepeken e \"toki wile pi pali nanpa\" lon "
+"\"sitelen suli\". "
+
+msgid "For advanced options, refer to "
+msgstr "sina wile e toki wile suli la o lukin e "
+
+msgid "For more information, visit "
+msgstr "sina wile sona mute la o lukin e "
+
+msgid "Forgot your password?"
+msgstr "sina sona ala e nimi open anu seme?"
+
+msgid "Fraction done"
+msgstr "kipisi pi pali pini"
+
+msgid "Friday"
+msgstr "tenpo suno nanpa luka"
+
+msgid "From:"
+msgstr "tan:"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GB free"
+msgstr "GB li lon kepeken ala"
+
+msgid "GB of disk space"
+msgstr "GB pi poki sona suli"
+
+msgid "GEO-600 project"
+msgstr "kulupu GEO-600"
+
+msgid "GPU computing is enabled"
+msgstr "sina ken pali kepeken ilo sitelen"
+
+msgid "GPU computing is suspended - "
+msgstr "sina ken ala pali kepeken ilo sitelen"
+
+msgid "GPU missing, "
+msgstr "ilo sitelen li lon ala, "
+
+msgid "GPU suspended - "
+msgstr "ilo sitelen li pali ala- "
+
+msgid "GUI RPC port number"
+msgstr "nanpa pi ilo GUI RPC"
+
+msgid "General"
+msgstr "nasa ala"
+
+msgid "Get current settings from %s"
+msgstr "o kama jo e toki wile pi tenpo ni tan %s"
+
+msgid "Get help for climateprediction.net"
+msgstr "o sona e kulupu climateprediction.net"
+
+msgid "Get help with %s"
+msgstr "o sona e %s"
+
+msgid "Global Statistics"
+msgstr "nanpa nasa ala"
+
+msgid "HTTP Proxy"
+msgstr "ilo HTTP pi sama toki "
+
+msgid "HTTP Proxy Server Configuration"
+msgstr "toki wile pi ilo HTTP"
+
+msgid "HTTP proxy"
+msgstr "ilo HTTP pi sama toki"
+
+msgid "Help"
+msgstr "sona pona"
+
+msgid "Hide %s"
+msgstr "o len e %s"
+
+msgid "Hide Others"
+msgstr "o len e ale ante"
+
+msgid "Hide project list"
+msgstr "o len e lipu kulupu"
+
+msgid "Home page"
+msgstr "lipu tomo"
+
+msgid "Host"
+msgstr "ilo sona lawa"
+
+msgid "Host Average"
+msgstr "nanpa pali kipisi tenpo suno pi ilo sona lawa"
+
+msgid "Host Total"
+msgstr "nanpa pali ale pi ilo sona lawa"
+
+msgid "Host location"
+msgstr "ma pi ilo sona"
+
+msgid "Host name or IP address"
+msgstr "nimi anu nanpa nasin IP pi ilo sona lawa"
+
+msgid "Host name:"
+msgstr "nimi pi ilo sona lawa:"
+
+msgid "How often should BOINC remind you of new notices?"
+msgstr "tenpo seme la ilo BOINC o toki e ni tawa sina: lipu toki sin li lon?"
+
+msgid "I agree to the terms of use."
+msgstr "lipu lawa pi nasin kepeken li pona tawa mi."
+
+msgid "I do not agree to the terms of use."
+msgstr "lipu lawa pi nasin kepeken li ike tawa mi."
+
+msgid "Identify your account at %s"
+msgstr "o sitelen e lipu jan sina lon %s"
+
+msgid ""
+"If checked, suspended tasks stay in memory, and resume with no work lost. If "
+"unchecked, suspended tasks are removed from memory, and resume from their "
+"last checkpoint."
+msgstr ""
+"sina kepeken e ni la pali pi pali ala li lon poki sona li kama pali la kili "
+"pali li weka ala. ante la pali pi pali ala li weka tan poki sona. ona li "
+"kama pali tan nanpa awen ona. kili pali lili li ken weka!"
+
+msgid ""
+"If you have not yet registered with this account manager,\n"
+"please do so before proceeding.  Click on the link below\n"
+"to register or to retrieve a forgotten password."
+msgstr ""
+"sina jo ala e lipu jan lon ilo lawa pi lipu jan la\n"
+"o kama jo e lipu jan.  o kepeken e nasin lon anpa.\n"
+"nasin la sina ken kama jo e lipu anu ante e nimi open."
+
+msgid "If you run several projects, %s may switch between them this often."
+msgstr ""
+"sina pali lon kulupu mute la %s li ken kama pali e kulupu ante. ante li kama "
+"lon tenpo ni."
+
+msgid ""
+"If you stop using %s,\n"
+"you'll keep all your current projects,\n"
+"but you'll have to manage projects manually.\n"
+"\n"
+"Do you want to stop using %s?"
+msgstr ""
+"sina kepeken ala e %s la\n"
+"kulupu sina li awen lon.\n"
+"taso sina o lawa e ona.\n"
+"\n"
+"sina wile ala wile pini e %s?"
+
+msgid "Info about your Team"
+msgstr "sona pi kulupu jan sina"
+
+msgid "Info about your team"
+msgstr "sona pi kulupu jan sina"
+
+msgid "Invalid Account Key; please enter a valid Account Key"
+msgstr "sina sitelen pakala e nanpa open pi lipu jan. o sama"
+
+msgid "Invalid URL"
+msgstr "nimi nasin URL li pakala"
+
+msgid "Invalid email address; please enter a valid email address"
+msgstr ""
+"nimi nasin ilo pi esun lipu li pakala.\n"
+"o sitelen e nimi pona."
+
+msgid "Invalid number"
+msgstr "nanpa li pakala"
+
+msgid "Invalid time, value must be between 0:00 and 24:00, format is HH:MM"
+msgstr "tenpo li pakala. ona o lili tawa 24:00 o suli tawa 0:00 o sama HH:MM"
+
+msgid "KB/second"
+msgstr "КB/tenpo ilo lili"
+
+msgid ""
+"Keep some CPUs free for other applications. Example: 75% means use 6 cores "
+"on an 8-core CPU."
+msgstr ""
+"o pana e kipisi pi ilo nanpa lawa tawa ilo ante. ijo lukin: ilo nanpa lawa "
+"li jo e kipisi 8. 75% la ilo BOINC li kepeken e kipisi 6 taso."
+
+msgid "Keywords"
+msgstr "nimi wawa"
+
+msgid "LIGO project"
+msgstr "kulupu LIGO"
+
+msgid "Language:"
+msgstr "toki:"
+
+msgid "Last scheduler reply"
+msgstr "toki sin pi ilo tenpo"
+
+msgid "Last update: %.0f days ago"
+msgstr "ante sin: %.0f tenpo suno pini"
+
+msgid "Learn about the projects hosted at World Community Grid"
+msgstr "o sona e kulupu World Community Grid"
+
+msgid "Leave at least"
+msgstr "o awen e"
+
+msgid "Leave non-GPU tasks in memory while suspended"
+msgstr "pali ala la o pana e pali pi ilo sitelen ala tawa poki sona."
+
+msgid "Leave these blank if not needed"
+msgstr "o sitelen ala lon ni."
+
+msgid "Licensing and copyright information."
+msgstr "sona lawa pi ken pi jan pali"
+
+msgid ""
+"Limit disk usage to leave this much free space on the volume where %s stores "
+"data."
+msgstr "o lili e kepeken pi poki sona suli tan ni: %s li jo e sona lon ni."
+
+msgid "Limit download rate to"
+msgstr "o lili e mute kipisi tenpo pi kama jo"
+
+msgid "Limit the download rate of file transfers."
+msgstr "o lili e mute kipisi tenpo pi kama jo pi lipu nanpa"
+
+msgid "Limit the memory used by %s when you're not using the computer."
+msgstr "sina kepeken ala e ilo sona la o lili e kepeken pi poki sona tawa %s."
+
+msgid "Limit the memory used by %s when you're using the computer."
+msgstr "sina kepeken e ilo sona la o lili e kepeken pi poki sona tawa %s."
+
+msgid ""
+"Limit the percentage of disk space used by %s on the volume where it stores "
+"data."
+msgstr "o lili e poki sona suli tawa %s."
+
+msgid "Limit the swap space (page file) used by %s."
+msgstr "%s li kepeken e lipu nanpa sona tan ni: . o lili e ni."
+
+msgid "Limit the total amount of disk space used by %s."
+msgstr "o lili e poki sona suli pi ilo %s."
+
+msgid "Limit the upload rate of file transfers."
+msgstr "o lili e mute kipisi tenpo pana pi lipu nanpa."
+
+msgid "Limit upload rate to"
+msgstr "o lili e mute kipisi tenpo pana"
+
+msgid "Limit usage to"
+msgstr "o lili e kepeken"
+
+msgid "Local: "
+msgstr "tomo: "
+
+msgid "Login Failed."
+msgstr "pakala la sina ken ala tawa."
+
+msgid "MB every"
+msgstr "MB pi tenpo"
+
+msgid "Message"
+msgstr "lipu toki"
+
+msgid "Message boards"
+msgstr "sinpin pi lipu toki"
+
+msgid "Messages"
+msgstr "lipu toki mute"
+
+msgid "Messages from server:"
+msgstr "lipu toki tan ilo sona lawa:"
+
+msgid "Missing URL"
+msgstr "nimi nasin URL li lon ala"
+
+msgid "Missing application"
+msgstr "ilo ante li lon ala"
+
+msgid "Mode view"
+msgstr "ante lukin"
+
+msgid "Monday"
+msgstr "tenpo suno nanpa wan"
+
+msgid "More info ..."
+msgstr "sona mute ..."
+
+msgid "My Grid"
+msgstr "lipu jan mi lon kulupu Grid"
+
+msgid "Name"
+msgstr "nimi"
+
+msgid "Name of application to add?"
+msgstr "nimi pi ilo ante li seme?"
+
+msgid "Name:"
+msgstr "nimi:"
+
+msgid "Network"
+msgstr "kulupu linja"
+
+msgid "Network activity always"
+msgstr "o kepeken e kulupu linja lon tenpo ale"
+
+msgid "Network activity based on preferences"
+msgstr "toki wile la o kepeken e kulupu linja"
+
+msgid "Network activity is suspended - "
+msgstr "kepeken pi kulupu linja li pini - "
+
+msgid "Network communication failure"
+msgstr "toki tawa kulupu linja li pakala"
+
+msgid "Network is enabled"
+msgstr "kulupu linja li lon"
+
+msgid "Network is suspended - "
+msgstr "mi ken ala kepeken e kulupu linja - "
+
+msgid "Network usage"
+msgstr "kepeken pi kulupu linja"
+
+msgid "New"
+msgstr "sin"
+
+msgid "New %s window..."
+msgstr "lupa sin %s..."
+
+msgid "News"
+msgstr "sona sin"
+
+msgid "No Internet connection"
+msgstr "kulupu linja li lon ala"
+
+msgid "No new tasks"
+msgstr "o kama jo ala e pali sin"
+
+msgid "No work available to process"
+msgstr "pali li lon ala"
+
+msgid "Non CPU intensive"
+msgstr "ni li kepeken lili e ilo nanpa lawa"
+
+msgid "Not Available"
+msgstr "sina ken ala kepeken e ni"
+
+msgid "Not available"
+msgstr "sina ken ala kepeken e ni"
+
+msgid "Not connected to a client."
+msgstr "ni li toki ala tawa ilo lupa."
+
+msgid "Not used: workaround for bug in XCode 4.2"
+msgstr "ni li lon kepeken ala tan ni: nasin sike pi pakala XCode 4.2 li lon"
+
+msgid "Notice reminder interval:"
+msgstr "toki sama pi lipu kalama:"
+
+msgid "Notices"
+msgstr "lipu toki"
+
+msgid "Now using account manager"
+msgstr "sina kepeken e ilo lawa pi lipu jan"
+
+msgid "Number must be between 0 and 10"
+msgstr "nanpa o suli tawa 0 o lili tawa 10"
+
+msgid "Number must be between 0 and 100"
+msgstr "nanpa o suli tawa 0 o lili tawa 100"
+
+msgid "Number must be between 1 and 100"
+msgstr "nanpa o suli tawa 1 o lili tawa 100"
+
+msgid "One project"
+msgstr "kulupu wan"
+
+msgid "Open %s Web..."
+msgstr "o lukin e %s lon kulupu linja..."
+
+msgid "Open %s..."
+msgstr "o open e %s..."
+
+msgid "Open a window to view notices from projects or BOINC"
+msgstr "o open e lupa pi toki sin pi kulupu anu ilo BOINC"
+
+msgid "Open another %s window"
+msgstr "o open e lupa %s..."
+
+msgid "Open web page"
+msgstr "o open e lipu pi kulupu linja"
+
+msgid "Options"
+msgstr "toki wile"
+
+msgid "Organization:"
+msgstr "kulupu:"
+
+msgid "Other"
+msgstr "ante"
+
+msgid "Override the times above on the selected days:"
+msgstr "tenpo suno wile la o ante e tenpo lon sewi:"
+
+msgid "Page/swap file: use at most"
+msgstr "lipu nanpa sona o kepeken lili tawa"
+
+msgid "Password"
+msgstr "nimi open"
+
+msgid "Password:"
+msgstr "nimi open:"
+
+msgid "Please connect to the Internet and try again."
+msgstr "o pali e linja pi kulupu linja. o sama."
+
+msgid ""
+"Please download and install the CoRD application from http://"
+"cord.sourceforge.net"
+msgstr "o kama jo e ilo CoRD tan nasin http://cord.sourceforge.net"
+
+msgid "Please enter a password of at least %d characters."
+msgstr "o sitelen e nimi open ni: ona li jo e nimi lili %d anu suli."
+
+msgid "Please enter a user name."
+msgstr "o sitelen e nimi jan."
+
+msgid "Please enter an email address."
+msgstr "o sitelen e nimi nasin ilo pi esun lipu."
+
+msgid ""
+"Please enter your account information\n"
+"(to create an account, visit the project's web site)"
+msgstr ""
+"o pana e sona pi lipu jan sina\n"
+"(sina wile e lipu jan la o kepeken e lipu kulupu pi kulupu linja)"
+
+msgid "Please read the following terms of use:"
+msgstr "o lukin e toki lawa kepeken:"
+
+msgid ""
+"Please specify a URL.\n"
+"For example:\n"
+"http://www.example.com/"
+msgstr ""
+"o sitelen e nimi nasin URL.\n"
+"ijo lukin:\n"
+"http://www.example.com/"
+
+msgid ""
+"Please specify a valid URL.\n"
+"For example:\n"
+"http://boincproject.example.com"
+msgstr ""
+"o sitelen e nimi nasin URL lon.\n"
+"ijo lukin:\n"
+"http://boincproject.example.com"
+
+msgid "Please specify an account key to continue."
+msgstr "o pana e nanpa open pi lipu jan."
+
+msgid "Please specify an email address"
+msgstr "o pana e nimi nasin pi ilo esun lipu"
+
+msgid ""
+"Please try again later.\n"
+"\n"
+"Click Finish to close."
+msgstr ""
+"tenpo kama la o sama. \n"
+"\n"
+"o kepeken e nena pini tawa pini."
+
+msgid "Please wait..."
+msgstr "o awen..."
+
+msgid "Pop up a menu of commands to apply to project %s"
+msgstr "o lukin e lipu pi toki lawa pi kulupu %s"
+
+msgid "Pop up a menu of commands to apply to this task"
+msgstr "o lukin e lipu pi toki lawa pi pali ni"
+
+msgid "Pop up a menu of web sites for project %s"
+msgstr "o lukin e lipu pi lipu kulupu linja pi kulupu %s"
+
+msgid "Port:"
+msgstr "lupa:"
+
+msgid "Postponed"
+msgstr "weka"
+
+msgid "Postponed: "
+msgstr "weka lon tenpo:"
+
+msgid "Preferences...\tCtrl+,"
+msgstr "toki wile...\tCtrl+,"
+
+msgid "Process ID"
+msgstr "nanpa ID pali"
+
+msgid "Processing Suspended."
+msgstr "ilo li pali ala."
+
+msgid "Processing Suspended:  Benchmarks Running."
+msgstr "ilo li pali ala:  mi lukin e ni: ilo sona li wawa seme?"
+
+msgid "Processing Suspended:  Running On Batteries."
+msgstr "ilo li pali ala:  ilo sona li moku e wawa tan poki wawa."
+
+msgid "Processing Suspended:  Time of Day."
+msgstr "ilo li pali ala:  tenpo pi pali ala li lon tenpo ni."
+
+msgid "Processing Suspended:  User Active."
+msgstr "ilo li pali ala:  jan li kepeken e ilo sona."
+
+msgid "Processing Suspended:  User paused processing."
+msgstr "wile sina la ilo li pali ala."
+
+msgid "Processing Suspended:  need disk space."
+msgstr "ilo li pali ala:  poki sona suli li lili tawa ona."
+
+msgid "Progress"
+msgstr "pali pini"
+
+msgid "Progress rate"
+msgstr "wawa pi pali nanpa"
+
+msgid "Project"
+msgstr "kulupu"
+
+msgid "Project Commands"
+msgstr "toki lawa kulupu"
+
+msgid "Project URL:"
+msgstr "nasin URL kulupu:"
+
+msgid "Project Web Pages"
+msgstr "lipu kulupu mute pi kulupu linja"
+
+msgid "Project added"
+msgstr "kulupu sin li lon"
+
+msgid "Project details"
+msgstr "sona kulupu:"
+
+msgid "Project ended - OK to remove"
+msgstr "kulupu li pini - sina ken weka e ona"
+
+msgid "Project has no apps for "
+msgstr "kulupu li jo ala e ilo tawa "
+
+msgid "Project initialization"
+msgstr "open kulupu"
+
+msgid "Project not found"
+msgstr "mi ken ala alasa e kulupu"
+
+msgid "Project preference"
+msgstr "toki wile kulupu"
+
+msgid "Project suspended by user"
+msgstr "kulupu li lape tan wile jan"
+
+msgid "Project temporarily unavailable"
+msgstr "tenpo ni la sina ken ala kepeken e kulupu"
+
+msgid "Project web pages"
+msgstr "lipu kulupu mute pi kulupu linja"
+
+msgid "Projects"
+msgstr "kulupu mute"
+
+msgid "Projects:"
+msgstr "kulupu mute:"
+
+msgid "Properties"
+msgstr "sona ijo"
+
+msgid "Properties of project "
+msgstr "sona kulupu "
+
+msgid "Properties of task "
+msgstr "sona pali "
+
+msgid "Proxy configuration"
+msgstr "toki wile pi ilo pi sama toki"
+
+msgid "Quit %s"
+msgstr "pini %s"
+
+msgid "Read a detailed description of the Einstein@Home screensaver"
+msgstr "o lukin e sona pi sitelen Einstein@Home pi awen ilo lukin"
+
+msgid "Read config files"
+msgstr "o lukin e lipu nanpa pi toki wile"
+
+msgid "Read configuration info from cc_config.xml and any app_config.xml files"
+msgstr "o kute e sona pi toki wile tan cc_config.xml tan app_config.xml"
+
+msgid "Read local prefs file"
+msgstr "o kute e lipu nanpa tomo pi toki wile"
+
+msgid "Read preferences from global_prefs_override.xml."
+msgstr "o kute e toki wile tan global_prefs_override.xml."
+
+msgid "Read the Einstein@Home Frequently Asked Question list"
+msgstr "o lukin e lipu pi toki wile sona pi kulupu Einstein@Home"
+
+msgid "Ready to report"
+msgstr "mi ken li kama toki"
+
+msgid "Ready to start"
+msgstr "mi ken li kama open"
+
+msgid "Received"
+msgstr "mi jo"
+
+msgid "Reconnecting to client."
+msgstr "toki nanpa tu tawa ilo lupa."
+
+msgid "Remaining (estimated)"
+msgstr "(pilin mi la) pini li kama lon tenpo"
+
+msgid "Remaining (estimated): %s"
+msgstr "(pilin mi la) pini li lon: %s"
+
+msgid "Remember this decision and do not show this dialog."
+msgstr "o sona e ni. o pana ala e lupa toki ni."
+
+msgid "Remove"
+msgstr "o weka"
+
+msgid "Remove Project"
+msgstr "o weka e kulupu"
+
+msgid "Remove an application from this list"
+msgstr "o weka e ilo ante tan lipu ni"
+
+msgid "Remove this computer from account manager control."
+msgstr "o weka e ilo sona ni tan ilo lawa pi lipu jan."
+
+msgid ""
+"Remove this project.  Tasks in progress will be lost (use 'Update' first to "
+"report any completed tasks)."
+msgstr ""
+"o weka e kulupu ni.  pali pi tenpo ni li kama weka. (o kepeken e nena pi "
+"sona sin tan ni: pali pini li awen li weka ala)."
+
+msgid "Remove when tasks done"
+msgstr "pali li pini la o weka e ni"
+
+msgid "Report Issue"
+msgstr "o toki lon pakala tawa mi"
+
+msgid ""
+"Report all completed tasks, get latest credit, get latest preferences, and "
+"possibly get more tasks."
+msgstr ""
+"o pana e pali pini ale tawa kulupu. o kama jo e nanpa pali e toki wile pi "
+"tenpo ni. ken la sina kama jo e pali sin."
+
+msgid "Report bug or enhancement request"
+msgstr "o toki lon pakala anu wile pona"
+
+msgid "Report deadline"
+msgstr "tenpo pini ni la o pana e pali pini"
+
+msgid "Report problems"
+msgstr "o toki lon ijo ike"
+
+msgid "Request tasks to checkpoint at most every"
+msgstr "o wile e awen nanpa lon tenpo"
+
+msgid "Requested by account manager"
+msgstr "ilo lawa pi lipu jan li wile e ni"
+
+msgid "Requested by project"
+msgstr "kulupu li wile e ni"
+
+msgid "Requested by user"
+msgstr "jan li wile e ni"
+
+msgid "Required files not found on the server."
+msgstr "lipu nanpa suli li lon ilo sona lawa ala."
+
+msgid "Research"
+msgstr "lukin tan sona"
+
+msgid "Research area:"
+msgstr "nasin sona:"
+
+msgid "Reset Project"
+msgstr "o pini e kulupu o open e kulupu"
+
+msgid "Reset project"
+msgstr "o pini e kulupu o open e kulupu"
+
+msgid "Resource share"
+msgstr "esun wawa"
+
+msgid "Resources"
+msgstr "wawa"
+
+msgid "Restore default settings"
+msgstr "o kepeken e toki wile pi tenpo open"
+
+msgid "Restore web-based preferences and close the dialog."
+msgstr "o kepeken e toki wile pi kulupu linja. o pini e lupa toki."
+
+msgid "Resume"
+msgstr "o awen pali"
+
+msgid "Resume Computing"
+msgstr "o awen pali nanpa"
+
+msgid "Resume GPU"
+msgstr "o awen pali kepeken ilo sitelen"
+
+msgid "Resume tasks for this project."
+msgstr "awen pali lon kulupu ni."
+
+msgid "Resume work for this task."
+msgstr "awen pali lon pali ni."
+
+msgid "Retrieving current status"
+msgstr "mi lukin e pilin pi tenpo ni"
+
+msgid "Retrieving current status."
+msgstr "mi lukin e pilin pi tenpo ni."
+
+msgid "Retry Now"
+msgstr "tenpo ni la o sama"
+
+msgid "Retry deferred file transfers and task requests"
+msgstr "o pana e lipu nanpa pi tenpo pini e toki pi wile pali."
+
+msgid "Retry pending transfers"
+msgstr "o sama e pana wile"
+
+msgid "Retry the file transfer now"
+msgstr "tenpo ni la o sama e pana pi lipu nanpa"
+
+msgid "Run CPU &benchmarks"
+msgstr "o open e lukin pi wawa & pi ilo nanpa lawa"
+
+msgid "Run Manager at login?"
+msgstr "sina open e ilo sona la ilo BOINC o open ala open?"
+
+msgid "Run based on &preferences"
+msgstr "lipu tenpo pali o kute e &toki wile"
+
+msgid "Run tests that measure CPU speed"
+msgstr "o open e lukin ni: wawa pi ilo nanpa lawa li seme?"
+
+msgid "Run the BOINC Manager when you log on."
+msgstr "sina open e ilo sona la o open e ilo BOINC."
+
+msgid "Run the client when launching the Manager."
+msgstr "open pi ilo lawa la o open e ilo lupa."
+
+msgid "Run the client?"
+msgstr "o open ala open e ilo lupa?"
+
+msgid "Running"
+msgstr "ona li pali"
+
+msgid "S&top using %s..."
+msgstr "o k&epeken ala %s..."
+
+msgid "SOCKS Proxy"
+msgstr "ilo pi sama toki SOCKS"
+
+msgid "SOCKS Proxy Server Configuration"
+msgstr "toki wile pi ilo SOCKS"
+
+msgid "SOCKS proxy"
+msgstr "ilo pi sama toki SOCKS"
+
+msgid "Saturday"
+msgstr "tenpo suno nanpa luka wan"
+
+msgid "Save all values"
+msgstr "o awen e nanpa ale"
+
+msgid "Save all values and close the dialog"
+msgstr "o awen e nanpa ale o pini e lupa toki"
+
+msgid "Scheduler RPC deferred for"
+msgstr "toki RPC tawa ilo tenpo li weka lon"
+
+msgid "Scheduler call in progress"
+msgstr "mu tawa ilo tenpo li awen"
+
+msgid "Scheduler request in progress"
+msgstr "mi wile e sona tan ilo tenpo"
+
+msgid "Scheduler request pending"
+msgstr "toki wile tawa ilo tenpo li awen"
+
+msgid "Scheduling"
+msgstr "ilo tenpo li pali"
+
+msgid "Scheduling priority"
+msgstr "ijo suli pi pali pi ilo tenpo"
+
+msgid "Screensaver info"
+msgstr "sona pi ilo pi awen ilo lukin"
+
+msgid "Search for help in our help system"
+msgstr "o alasa e sona lon ilo pona mi"
+
+msgid "See more information about %s on the web"
+msgstr "o lukin e sona mute pi %s lon kulupu linja"
+
+msgid "Select a project to access with the controls below"
+msgstr "o wile e kulupu kepeken ilo lawa lon anpa"
+
+msgid "Select a task to access"
+msgstr "o wile lawa e pali"
+
+msgid "Select columns..."
+msgstr "o wile e palisa..."
+
+msgid "Select computer...\tCtrl+Shift+I"
+msgstr "o wile e ilo sona...\t Ctrl+Shift+I"
+
+msgid "Select the appearance of the user interface."
+msgstr "lukin la ilo li seme tawa jan kepeken?"
+
+msgid "Select which columns %s should show."
+msgstr "%s o sitelen e palisa seme?"
+
+msgid "Select which columns to display"
+msgstr "o wile sitelen e palisa ni:"
+
+msgid "Server:"
+msgstr "ilo sona lawa:"
+
+msgid "Services"
+msgstr "ijo pona"
+
+msgid "Set values and click Save to use local preferences instead."
+msgstr ""
+"o sitelen e nanpa o kepeken e nena \"awen\" tawa ni: sina kepeken e toki "
+"wile tomo."
+
+msgid "Set values and click Save to use local prefs instead."
+msgstr ""
+"o sitelen e nanpa o kepeken e nena \"awen\" tawa ni: sina kepeken e toki "
+"wile tomo."
+
+msgid "Show All"
+msgstr "o sitelen e ale"
+
+msgid "Show VM Console"
+msgstr "o pana e ilo toki pi ilo sona nasa"
+
+msgid "Show VM Console in a window."
+msgstr "o pana e ilo toki pi ilo sona nasa tawa lupa sin"
+
+msgid "Show active tasks"
+msgstr "o pana e pali wawa"
+
+msgid "Show al&l"
+msgstr "o sitelen e al&e"
+
+msgid "Show all &messages"
+msgstr "o sitelen e &lipu toki ale"
+
+msgid "Show all messages"
+msgstr "o sitelen e lipu toki ale"
+
+msgid "Show all projects, one chart per project"
+msgstr "o sitelen e kulupu ale. kulupu wan li lon lipu wan."
+
+msgid "Show all tasks"
+msgstr "o sitelen e pali ale"
+
+msgid "Show all tasks."
+msgstr "o sitelen e pali ale."
+
+msgid "Show application graphics in a window."
+msgstr "o pana e sitelen ilo lon lupa"
+
+msgid "Show average credit for host"
+msgstr "o sitelen e nanpa pali kipisi tenpo pi jan lawa"
+
+msgid "Show average credit for user"
+msgstr "o sitelen e nanpa pali kipisi tenpo pi jan kepeken"
+
+msgid "Show chart for next project"
+msgstr "o sitelen e sitelen nanpa pi kulupu sinpin"
+
+msgid "Show chart for previous project"
+msgstr "o sitelen e sitelen nanpa pi kulupu monsi"
+
+msgid "Show diagnostic messages"
+msgstr "o pana e lipu toki pi alasa pakala"
+
+msgid "Show disk usage"
+msgstr "o sitelen e kepeken pi poki sona suli"
+
+msgid "Show file transfers"
+msgstr "o sitelen e pana pi lipu nanpa"
+
+msgid "Show graphics"
+msgstr "o lukin e sitelen"
+
+msgid "Show host average"
+msgstr "o pana e nanpa kipisi tenpo pi jan lawa"
+
+msgid "Show host total"
+msgstr "nanpa ale pi jan lawa"
+
+msgid "Show information about %s"
+msgstr "o pana e sona pi %s"
+
+msgid "Show information about BOINC and %s"
+msgstr "o pana e sona pi ilo BOINC pi %s"
+
+msgid "Show information about the %s"
+msgstr "o pana e sona pi %s"
+
+msgid "Show messages for all projects"
+msgstr "o lukin e lipu toki pi kulupu ale"
+
+msgid "Show messages for all projects."
+msgstr "o lukin e lipu toki pi kulupu ale."
+
+msgid "Show notices"
+msgstr "o lukin e lipu toki"
+
+msgid "Show one chart with all projects"
+msgstr "o sitelen e sitelen wan pi kulupu ale"
+
+msgid "Show one chart with selected project"
+msgstr "o sitelen e sitelen wan pi kulupu wile"
+
+msgid "Show one chart with sum of projects"
+msgstr "o sitelen e sitelen wan pi nanpa wan taso pi kulupu ale"
+
+msgid "Show only active tasks."
+msgstr "o lukin e pali wawa taso"
+
+msgid "Show only aler&ts"
+msgstr "o pana e lipu &toki kalama taso"
+
+msgid "Show only the messages for the selected project"
+msgstr "o pana e lipu toki pi kulupu wile wan taso"
+
+msgid "Show only the messages for the selected project."
+msgstr "o pana e lipu toki pi kulupu wile wan taso."
+
+msgid "Show only the messages that are alerts"
+msgstr "o pana e lipu toki kalama taso"
+
+msgid "Show only this project"
+msgstr "o lukin e kulupu ni taso"
+
+msgid "Show project details."
+msgstr "o lukin e sona namako kulupu."
+
+msgid "Show project list"
+msgstr "o lukin e lipu kulupu"
+
+msgid "Show projects"
+msgstr "o lukin e kulupu"
+
+msgid "Show statistics"
+msgstr "o sitelen e nanpa"
+
+msgid "Show status in menu bar?"
+msgstr "o sitelen ala sitelen e pilin lon palisa pi ma lawa?"
+
+msgid "Show task details."
+msgstr "o pana e sona pali namako."
+
+msgid "Show tasks"
+msgstr "o lukin e pali"
+
+msgid "Show total credit for host"
+msgstr "o lukin e nanpa pali ale pi jan lawa"
+
+msgid "Show total credit for user"
+msgstr "o lukin e nanpa pali ale pi jan kepeken"
+
+msgid "Show user average"
+msgstr "o lukin e nanpa kipisi tenpo pi jan kepeken"
+
+msgid "Show user total"
+msgstr "o lukin e nanpa ale pi jan kepeken"
+
+msgid "Shows messages of all types (information, alerts, etc.)"
+msgstr "o pana e lipu toki pi kon ale (sona, kalama, ale ante)"
+
+msgid "Shows only the messages that are alerts"
+msgstr "o pana e lipu toki kalama taso"
+
+msgid "Shows the preferences web page."
+msgstr "ni li pana e lipu pi toki wile lon kulupu linja."
+
+msgid "Shut down connected client..."
+msgstr "o pini e ilo lupa lon linja toki..."
+
+msgid "Shut down the currently connected BOINC client"
+msgstr "o pini e ilo lupa BOINC lon linja toki"
+
+msgid "Simple &View...\tCtrl+Shift+V"
+msgstr "sitelen &lili...\t Ctrl+Shift+V"
+
+msgid "Size"
+msgstr "suli"
+
+msgid "Skin"
+msgstr "selo"
+
+msgid "Skip data verification for image files"
+msgstr "o alasa ala e pakala lon sona pi lipu nanpa sitelen"
+
+msgid "Snooze"
+msgstr "kama lape"
+
+msgid "Snooze GPU"
+msgstr "o lape e ilo sitelen"
+
+msgid "Speed"
+msgstr "wawa kipisi tenpo"
+
+msgid "Start time must be different from end time"
+msgstr "tenpo open en tenpo pini o sama ala"
+
+msgid "Startup BOINC so only the system tray icon is visible"
+msgstr "open pi ilo BOINC la o sitelen e sitelen lili taso"
+
+msgid "Startup BOINC with these optional arguments"
+msgstr "open pi ilo BOINC la o kepeken e ijo namako ni"
+
+msgid "State"
+msgstr "pilin"
+
+msgid "Statistics"
+msgstr "nanpa"
+
+msgid "Status"
+msgstr "pilin"
+
+msgid "Status: %s"
+msgstr "pilin: %s"
+
+msgid "Stop GPU work regardless of preferences"
+msgstr "o pini pali kepeken ilo sitelen. o kute ala e toki wile"
+
+msgid "Stop graphics"
+msgstr "o pini e sitelen nanpa"
+
+msgid "Stop network activity"
+msgstr "o pini e wawa pi kulupu linja"
+
+msgid "Stop running tasks when exiting the %s"
+msgstr "pini pi %s la o pini pali"
+
+msgid "Stop work regardless of preferences"
+msgstr "o kute ala e toki wile o pini pali"
+
+msgid ""
+"Store additional tasks above the minimum level.  Determines how much work is "
+"requested when contacting a project."
+msgstr ""
+"o jo e pali namako lon sewi pi nanpa lili nanpa wan.  ni li wile e ni: ilo "
+"li toki tawa kulupu la o kama jo e pali pi mute seme?"
+
+msgid "Store at least"
+msgstr "o awen pi lili ala tawa ni"
+
+msgid "Store at least enough tasks to keep the computer busy for this long."
+msgstr "o awen e pali pi mute ni: ilo sona li awen pali lon tenpo ni:"
+
+msgid "Store up to an additional"
+msgstr "o awen namako lon"
+
+msgid "Summary statistics for World Community Grid"
+msgstr "nanpa ale pi kulupu World Community Grid"
+
+msgid "Sunday"
+msgstr "tenpo suno nanpa luka tu"
+
+msgid "Supported systems:"
+msgstr "ona li pona tawa ilo ni:"
+
+msgid "Supports AMD GPUs"
+msgstr "pona tawa ilo nanpa lawa AMD"
+
+msgid "Supports Android"
+msgstr "pona tawa ilo Android"
+
+msgid "Supports FreeBSD"
+msgstr "pona tawa ilo FreeBSD"
+
+msgid "Supports Intel GPUs"
+msgstr "pona tawa ilo nanpa lawa Intel"
+
+msgid "Supports Linux on ARM (e.g. Raspberry Pi)"
+msgstr "pona tawa ilo Linux pi ilo nanpa lawa ARM (sama ilo Raspberry Pi)"
+
+msgid "Supports Linux on Intel"
+msgstr "pona tawa ilo Linux pi ilo nanpa lawa Intel"
+
+msgid "Supports Mac OS X"
+msgstr "pona tawa ilo Mac OS X"
+
+msgid "Supports Microsoft Windows"
+msgstr "pona tawa ilo Microsoft Windows"
+
+msgid "Supports NVIDIA GPUs"
+msgstr "pona tawa ilo sitelen NVIDIA"
+
+msgid "Supports VirtualBox"
+msgstr "pona tawa ilo VirtualBox"
+
+msgid "Suspend"
+msgstr "o lape"
+
+msgid "Suspend Computing"
+msgstr "o lape e pali"
+
+msgid "Suspend GPU"
+msgstr "o lape e ilo sitelen"
+
+msgid "Suspend GPU computing when computer is in use"
+msgstr "sina kepeken e ilo sona la o lape e ilo sitelen"
+
+msgid "Suspend GPU usage when these applications are running:"
+msgstr "o lape e ilo sitelen lon tenpo pali pi ilo ante ni:"
+
+msgid "Suspend computing when your computer is busy running other programs."
+msgstr "ilo sona sina li kepeken e ilo ante la o lape e pali nanpa."
+
+msgid "Suspend network activity"
+msgstr "o pini e wawa pi kulupu linja"
+
+msgid ""
+"Suspend processor and network usage when these applications are running:"
+msgstr "o lape e ilo nanpa lawa e kulupu linja lon tenpo pali pi ilo ni:"
+
+msgid "Suspend tasks for this project."
+msgstr "o lape e pali lon kulupu ni."
+
+msgid "Suspend this task."
+msgstr "o lape e pali ni."
+
+msgid "Suspend when computer is in use"
+msgstr "sina kepeken e ilo sona la o lape"
+
+msgid "Suspend when computer is on battery"
+msgstr "ilo sona li moku e wawa tan poki wawa la o lape"
+
+msgid "Suspend when no mouse or keyboard input in last"
+msgstr "o lape tan ni: sina kepeken ala e ilo luka anu ilo nena lon tenpo"
+
+msgid ""
+"Suspend when no mouse or keyboard input needs to be greater than 'in use' "
+"mouse or keyboard input."
+msgstr ""
+"sina kepeken ala e ilo luka anu ilo nena lon tenpo pi suli tawa tenpo "
+"kepeken la o lape."
+
+msgid "Suspend when non-BOINC CPU usage is above"
+msgstr "o lape tan ni: ilo ante li kepeken e ilo nanpa lawa pi mute ni"
+
+msgid "Suspend work for this result."
+msgstr "o lape e pali ni."
+
+msgid "Suspend work for this task."
+msgstr "o lape e pali ni."
+
+msgid ""
+"Suspend/resume computing every few seconds to reduce CPU temperature and "
+"energy usage. Example: 75% means compute for 3 seconds, wait for 1 second, "
+"and repeat."
+msgstr ""
+"o lape/pali lon tenpo ilo lili. ni la ilo nanpa lawa li kama lete li moku e "
+"wawa lili. o lukin: 75% li sama pali pi tenpo ilo lili 3 li sama awen pi "
+"tenpo ilo lili 1. ni li tawa sike."
+
+msgid "Suspended - "
+msgstr "lape - "
+
+msgid "Suspended by user"
+msgstr "jan li lape e ona"
+
+msgid "Suspended via GUI"
+msgstr "ona li lape tan ilo kepeken pi nasin sitelen"
+
+msgid "Switch between tasks every"
+msgstr "o ante e pali lon tenpo"
+
+msgid "Switch to the Simple View"
+msgstr "o kepeken e sitelen lili"
+
+msgid "Synchronize"
+msgstr "o sama e ilo mute"
+
+msgid "Synchronize projects with account manager system"
+msgstr "o sama e kulupu kepeken ilo lawa pi lipu jan"
+
+msgid "Task Commands"
+msgstr "toki lawa pali"
+
+msgid "Task suspended by user"
+msgstr "jan li lape e pali"
+
+msgid "Tasks"
+msgstr "pali"
+
+msgid "Tasks completed"
+msgstr "pali pini"
+
+msgid "Tasks failed"
+msgstr "pali li pakala"
+
+msgid "Tasks:"
+msgstr "pali:"
+
+msgid "Team"
+msgstr "kulupu jan"
+
+msgid "Team name"
+msgstr "nimi pi kulupu jan"
+
+msgid "Terms of Use"
+msgstr "lipu lawa pi kepeken ilo"
+
+msgid ""
+"The %s client has exited unexpectedly 3 times within the last %d minutes.\n"
+"Would you like to restart it again?"
+msgstr ""
+"ilo %s li weka nanpa 3 lon tenpo ilo %d .\n"
+"sina wile ala wile open sin e ona?"
+
+msgid ""
+"The %s's language has been changed.  In order for this change to take "
+"effect, you must restart the %s."
+msgstr "toki pi ilo %s li ante. ante li kama wawa la o pini o open e %s."
+
+msgid ""
+"The URL you supplied is not that of a BOINC-based account\n"
+"manager.\n"
+"\n"
+"Please check the URL and try again."
+msgstr ""
+"nimi nasin sina li tan ala ilo lawa pi lipu jan pi ilo BOINC.\n"
+"\n"
+"o pona e nimi nasin o sama."
+
+msgid ""
+"The URL you supplied is not that of a BOINC-based project.\n"
+"\n"
+"Please check the URL and try again."
+msgstr ""
+"nimi nasin sina li tan ala kulupu pi ilo BOINC.\n"
+"\n"
+"o pona e nimi nasin o sama."
+
+msgid ""
+"The World Community Grid - BOINC software failed to communicate\n"
+"over the Internet. The most likely reasons are:\n"
+"\n"
+"1) Connectivity problem.  Check your network or modem connection\n"
+"and then click Back to try again.\n"
+"\n"
+"2) Personal firewall software is blocking the World Community\n"
+"Grid - BOINC software.  Configure your personal firewall to let\n"
+"BOINC and BOINC Manager communicate on port 80 and port 443,\n"
+"then click Back to try again.\n"
+"\n"
+"3) You are using a proxy server.\n"
+"Click Next to configure BOINC's proxy settings."
+msgstr ""
+"World Community Grid - ilo BOINC li ken ala toki \n"
+"lon kulupu linja. ni li ken tan ni :\n"
+"1) linja toki li ike.  o lukin e kulupu linja sina anu ilo toki kon.\n"
+"o kepeken nena \"monsi\".\n"
+"\n"
+"2) ilo sina pi awen kulupu linja li weka e kulupu World Community\n"
+"Grid anu ilo BOINC tan kulupu linja. o pana e ken toki tawa\n"
+"ilo BOINC tawa ilo lawa BOINC kepeken lupa 80 kepeken lupa 443.\n"
+"o kepeken e nena \"monsi\". o sama\n"
+"\n"
+"3) sina kepeken e ilo pi sama toki.\n"
+"o kepeken e nena \"sinpin\". o ante e toki wile pi ilo pi toki sama lon ilo "
+"BOINC."
+
+msgid ""
+"The account manager is temporarily unavailable.\n"
+"\n"
+"Please try again later."
+msgstr ""
+"tenpo ni la ilo lawa pi lipu jan li wawa ala.\n"
+"\n"
+"o sama lon tenpo ante."
+
+msgid "The home page of the GEO-600 project"
+msgstr "lipu tomo pi kulupu GEO-600"
+
+msgid ""
+"The home page of the Laser Interferometer Gravitational-wave Observatory "
+"(LIGO) project"
+msgstr ""
+"lipu tomo pi kulupu LIGO (ilo pi linja suno pi kipisi lіnja wawa lon tomo pi "
+"lukin mun)"
+
+msgid ""
+"The password and confirmation password do not match. Please type them again."
+msgstr "nimi open tu li ante. o sitelen sin e ona."
+
+msgid ""
+"The project is temporarily unavailable.\n"
+"\n"
+"Please try again later."
+msgstr ""
+"tenpo ni la kulupu li wawa ala.\n"
+"\n"
+"tenpo ante la o sama."
+
+msgid "There are new notices - click to view."
+msgstr "lipu toki sin li lon - o luka tan lukin."
+
+msgid "There are no notices at this time."
+msgstr "lipu toki li lon ala."
+
+msgid "There is no new version of %s available for download."
+msgstr "ante sin pi ilo %s li lon ala."
+
+msgid ""
+"These flags enable various types of diagnostic messages in the Event Log."
+msgstr "leko ni li open e lipu toki pi alasa pakala lon lipu tenpo."
+
+msgid "This allows some computers to enter low-power mode when not in use."
+msgstr "ni li ni: sina kepeken ala e ilo sona la ilo sona li moku e wawa lili"
+
+msgid ""
+"This controls how often tasks save their state to disk, so that they later "
+"can be continued from that point."
+msgstr ""
+"ni li lawa e ni: pali li awen e ona kepeken poki sona suli lon tenpo seme? "
+"pali li ken open tan nanpa awen lon poki sona suli."
+
+msgid "This determines when the computer is considered 'in use'."
+msgstr "ni li lawa e ni: tenpo seme li \"sina kepeken e ilo sona\"."
+
+msgid "This project has been successfully added."
+msgstr "pona! kulupu ni li kama."
+
+msgid ""
+"This project is not currently accepting new accounts.\n"
+"You can add it only if you already have an account."
+msgstr ""
+"kulupu ni li wile ala jo e jan sin.\n"
+"sina jo e lipu jan pi sin ala la sina ken kepeken kulupu."
+
+msgid ""
+"This project may not have work for your type of computer.  Do you want to "
+"add it anyway?"
+msgstr ""
+"ken la kulupu ni li pali ike lon ilo sona sina. sina wile ala wile jo e ona?"
+
+msgid "This task's progress"
+msgstr "pali pini pi pali ni"
+
+msgid ""
+"This will shut down %s and its tasks until either the\n"
+"%s or the %s screen saver is run again.\n"
+"\n"
+"In most cases, it is better just to close the %s window\n"
+"rather than to exit the application; that will allow %s to run its\n"
+"tasks at the times you selected in your preferences."
+msgstr ""
+"ni li pini e %s e pali ona.\n"
+"%s anu ilo awen pi ilo lukin %s li open la ona li open kin.\n"
+"\n"
+"tenpo mute la pini pi lupa %s li nasin pona.\n"
+"weka tan ilo li ike. nasin pona la %s li awen pali\n"
+"lon tenpo pi toki wile sina."
+
+msgid ""
+"This will shut down %s and its tasks until the\n"
+"%s is run again.\n"
+"\n"
+"In most cases, it is better just to close the %s window\n"
+"rather than to exit the application; that will allow %s to run its\n"
+"tasks at the times you selected in your preferences."
+msgstr ""
+"ni li pini e %s e pali ona.\n"
+"%s li open la ona li open kin.\n"
+"\n"
+"tenpo mute la pini pi lupa %s li nasin pona.\n"
+"weka tan ilo li ike. nasin pona la %s li awen pali\n"
+"lon tenpo pi toki wile sina."
+
+msgid "Thursday"
+msgstr "tenpo suno nanpa tu tu"
+
+msgid "Time"
+msgstr "tenpo"
+
+msgid "To choose a project, click its name or type its URL below."
+msgstr ""
+"sina wile e kulupu la o luka e nimi ona anu sitelen e nimi nasin ona lon "
+"anpa."
+
+msgid ""
+"To choose an account manager, click its name or \n"
+"type its URL below."
+msgstr ""
+"sina wile e ilo lawa pi lipu jan la o luka e nimi ona anu \n"
+"sitelen e nimi ona lon anpa."
+
+msgid "To continue, click Next."
+msgstr "awen la o kepeken e nena pi tawa sinpin."
+
+msgid "To fetch work"
+msgstr "alasa e pali"
+
+msgid "To limit transfers by time of day, see the \"Daily Schedules\" section."
+msgstr ""
+"sina wile lili e tawa sona pi tenpo kipisi pi tenpo suno la o lukin e \"lipu "
+"tenpo lawa pi tenpo suno\"."
+
+msgid "To report completed tasks"
+msgstr "o toki lon pali pini"
+
+msgid "To send trickle-up message"
+msgstr "o pana e lipu toki pi tenpo insa"
+
+msgid "To suspend by time of day, see the \"Daily Schedules\" section."
+msgstr ""
+"sina wile lape e ilo lon tenpo kipisi pi tenpo suno la o lukin e \"lipu "
+"tenpo lawa pi tenpo suno\"."
+
+msgid "Total disk usage"
+msgstr "suli kepeken pi poki sona suli"
+
+msgid "Trans&fers\tCtrl+Shift+X"
+msgstr "pana &nasin\t Ctrl+Shift+X"
+
+msgid "Transfer files only between"
+msgstr "o pana e lipu nanpa lon insa tenpo"
+
+msgid "Transfer files only during a particular period each day."
+msgstr "o pana e lipu nanpa lon tenpo kipisi pi tenpo suno."
+
+msgid "Transfers"
+msgstr "pana nasin"
+
+msgid "Trickle up message pending"
+msgstr "awen pi lipu toki pi tenpo insa"
+
+msgid "Trickle-up pending"
+msgstr "awen pi tenpo insa"
+
+msgid "Tuesday"
+msgstr "tenpo suno nanpa tu"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL:"
+msgstr "URL:"
+
+msgid "Unable to connect to the core client"
+msgstr "mi ken ala toki tawa ilo lupa lawa"
+
+msgid "Unknown reason"
+msgstr "mi sona ala e tan"
+
+msgid "Update"
+msgstr "o jo e sona sin"
+
+msgid "Update account manager"
+msgstr "o kama jo e ante sin pi ilo lawa pi lipu jan"
+
+msgid "Update completed."
+msgstr "kama sin li pini."
+
+msgid "Update from %s completed."
+msgstr "%s li kama sin."
+
+msgid "Update your device settings"
+msgstr "o sin e toki wile pi ilo sina"
+
+msgid "Upload"
+msgstr "pana"
+
+msgid "Upload failed"
+msgstr "pana li pakala"
+
+msgid "Uploading"
+msgstr "mi pana"
+
+msgid "Use GPU always"
+msgstr "o kepeken e ilo sitelen lon tenpo ale"
+
+msgid "Use GPU based on preferences"
+msgstr "toki wile la o kepeken e ilo sitelen"
+
+msgid "Use account manager"
+msgstr "o kepeken e ilo lawa pi lipu jan"
+
+msgid "Use an account manager to control this computer."
+msgstr "o kepeken e ilo lawa pi lipu jan tan ni: ona li lawa e ilo sona ni."
+
+msgid "Use at most"
+msgstr "o kepeken pi suli ala tawa ni:"
+
+msgid "Use entire area for graphs"
+msgstr "o kepeken e ma ale tawa sitelen"
+
+msgid "Use no more than"
+msgstr "o kepeken pi suli ala tawa ni:"
+
+msgid "Use web prefs"
+msgstr "o kepeken e toki wile pi kulupu linja"
+
+msgid "Useful only if you have a modem, ISDN or VPN connection."
+msgstr "sina kepeken e ilo toki kon anu ilo ISDN anu ilo VPN la ni li pona."
+
+msgid "User"
+msgstr "jan kepeken"
+
+msgid "User Average"
+msgstr "nanpa pi pali jan kipisi tenpo ale"
+
+msgid "User Name:"
+msgstr "nimi jan:"
+
+msgid "User Total"
+msgstr "nanpa ale pi pali jan"
+
+msgid "User name"
+msgstr "nimi jan"
+
+msgid "Username already in use"
+msgstr "jan ante li kepeken e nimi ni"
+
+msgid "Uses smaller area for graphs"
+msgstr "ni li kepeken e ma lili tawa sitelen"
+
+msgid ""
+"Using local preferences.\n"
+"Click \"Use web prefs\" to use web-based preferences from"
+msgstr ""
+"toki wile tomo li wawa.\n"
+"sina wile kepeken toki wile pi kulupu linja la o luka e nena \"o kepeken e "
+"toki wile pi kulupu linja\". ni li tan "
+
+msgid "Using local prefs."
+msgstr "mi kepeken e toki wile tomo."
+
+msgid "Using web prefs from"
+msgstr "mi kepeken e toki wile pi kulupu linja tan"
+
+msgid "Using web-based preferences from"
+msgstr "mi kepeken e toki wile pi kulupu linja tan"
+
+msgid "Validation Error"
+msgstr "alasa ike li pakala"
+
+msgid "Validation conflict"
+msgstr "utala li lon alasa ike"
+
+msgid "Version Update"
+msgstr "kama sin ante"
+
+msgid "Version:"
+msgstr "ante:"
+
+msgid ""
+"View a listing of all the computers on which you are running Einstein@Home"
+msgstr "o lukin e lipu pi ilo sona sina ale pi kulupu Einstein@Home"
+
+msgid "View a listing of all the computers on which you are running SETI@Home"
+msgstr "o lukin e lipu pi ilo sona sina ale pi kulupu SETI@Home"
+
+msgid "View and modify your Einstein@Home account profile and preferences"
+msgstr "o lukin anu ante e lipu jan sina e toki wile lon kulupu Einstein@Home"
+
+msgid "View and modify your SETI@home account profile and preferences"
+msgstr "o lukin anu ante e lipu jan sina e toki wile lon kulupu SETI@Home"
+
+msgid "View information about your team"
+msgstr "o lukin e sona pi kulupu jan sina"
+
+msgid "View your account information and credit totals"
+msgstr "o lukin e sona pi lipu jan sina e nanpa pali"
+
+msgid "View your account information, credits, and trickles"
+msgstr "o lukin e sona pi lipu jan sina e nanpa pali e ijo ante"
+
+msgid "View your last week (or more) of computational results and work"
+msgstr "o lukin e kili pali sina pi tenpo esun pini (anu suli)"
+
+msgid "Virtual memory size"
+msgstr "suli pi poki sona pi lon ala "
+
+msgid "Visit this account manager's web site"
+msgstr "o lukin e lipu pi kulupu linja pi ilo lawa ni"
+
+msgid "Volunteer for any or all of 30+ projects in many areas of science"
+msgstr "sina ken pali pi mani ala lon kulupu pi sona ante. 30+ kulupu li lon"
+
+msgid "Waiting for memory"
+msgstr "mi awen tan ni: mi wile kepeken poki sona. ilo ante li kepeken e ona. "
+
+msgid "Waiting for network access"
+msgstr "mi awen tan ni: mi ken ala kepeken kulupu linja"
+
+msgid "Waiting for shared memory"
+msgstr "mi awen tan ni: mi ken ala kepeken poki sona pi ilo mute."
+
+msgid "Waiting to contact project servers."
+msgstr "awen li tan ni: mi kama toki tawa ilo sona kulupu"
+
+msgid "Waiting to run"
+msgstr "mi awen. pali li kama."
+
+msgid "Web site:"
+msgstr "lipu pi kulupu linja:"
+
+msgid "Wednesday"
+msgstr "tenpo suno nanpa tu wan"
+
+msgid "Welcome to %s!"
+msgstr "o kama pona lon %s!"
+
+msgid "Welcome to %s."
+msgstr "o kama pona lon %s."
+
+msgid "What language should BOINC use?"
+msgstr "ilo BOINC o kepeken e toki seme?"
+
+msgid "When computer is in use"
+msgstr "tenpo pi kepeken ilo sona"
+
+msgid "When computer is not in use"
+msgstr "tenpo pi kepeken ala ilo sona"
+
+msgid ""
+"When you click Finish, your web browser will go to a page where\n"
+"you can set your account name and preferences."
+msgstr ""
+"sina luka e nena pini la ilo alasa sina li open e lipu.\n"
+"sina ken sitelen e nimi sina li ken ante e toki wile."
+
+msgid "Will remove when tasks done"
+msgstr "pali li pini la ona li weka"
+
+msgid "Won't get new tasks"
+msgstr "ona li kama ala jo e pali sin"
+
+msgid "Work done"
+msgstr "pali pini"
+
+msgid "Work done for this project"
+msgstr "pali pini pi kulupu ni"
+
+msgid "Working set size"
+msgstr "suli pi poki pali"
+
+msgid "You already added this project. Please choose a different project."
+msgstr "sina jo e kulupu ni. o kama jo e kulupu ante."
+
+msgid "You are now using %s to manage accounts."
+msgstr "sina kepeken e %s tan lawa pi lipu jan."
+
+msgid "You are now using this account manager."
+msgstr "sina kepeken e ilo lawa pi lipu jan ni."
+
+msgid ""
+"You currently are not authorized to manage %s.\n"
+"\n"
+"To run %s as this user, please:\n"
+"- reinstall %s answering \"Yes\" to the question about non-administrative "
+"users\n"
+" or\n"
+"- contact your administrator to add you to the 'boinc_master' user group."
+msgstr ""
+"sina jo ala e ken pi lawa %s.\n"
+"\n"
+"sina wile open e %s lon jan ni la nasin wan:\n"
+"- o weka o kama jo e %s sin. sina lukin e wile sona pi jan lawa ala la o "
+"toki e \"lon\".\n"
+" nasin ante:\n"
+"- o toki tawa jan lawa sina o wile kama lon kulupu 'boinc_master'."
+
+msgid "You don't have any projects.  Please Add a Project."
+msgstr "sina jo ala e kulupu.  o kama jo e kulupu."
+
+msgid ""
+"You have requested to exit the %s,\n"
+"which allows you to view and manage\n"
+"the tasks running on your computer.\n"
+"\n"
+"If you also want to stop running the tasks,\n"
+"choose from the following options:"
+msgstr ""
+"sina wile weka tan %s.\n"
+"ona li pana e ken pi lawa pali\n"
+"tawa sina.\n"
+"\n"
+"sina wile pini e pali la\n"
+"o wile e ken ni:"
+
+msgid "You have volunteered to compute for this project:"
+msgstr "sina kama pali pi mani ala lon kulupu ni:"
+
+msgid "Your account"
+msgstr "lipu jan sina"
+
+msgid "Your computers"
+msgstr "ilo sona sina"
+
+msgid "Your preferences"
+msgstr "toki wile sina"
+
+msgid "Your results"
+msgstr "kili pi pali sina"
+
+msgid "Your statistics and settings"
+msgstr "nanpa pi pali sina en toki wile sina"
+
+msgid "Your tasks"
+msgstr "pali sina"
+
+msgid "Your team"
+msgstr "kulupu jan sina"
+
+msgid "active"
+msgstr "wawa"
+
+msgid "always"
+msgstr "tenpo ale"
+
+msgid "an exclusive app is running"
+msgstr "ilo ante wawa li pali"
+
+msgid "and"
+msgstr "en"
+
+msgid "climateprediction.net News"
+msgstr "sona sin pi kulupu climateprediction.net"
+
+msgid "computer is in use"
+msgstr "ilo sona li pali"
+
+msgid "computer is not in use"
+msgstr "ilo sona li pali ala"
+
+msgid "days"
+msgstr "tenpo suno"
+
+msgid "days and up to an additional"
+msgstr "tenpo suno en namako"
+
+msgid "days of work"
+msgstr "tenpo suno pali"
+
+msgid "default"
+msgstr "nasin open"
+
+msgid "disable BOINC security users and permissions"
+msgstr "weka e nasin pi pakala ala pi ilo BOINC"
+
+msgid "failed"
+msgstr "ken ala"
+
+msgid "free, available to BOINC: "
+msgstr "ala li lon ni. ilo BOINC li ken kepeken e ni: "
+
+msgid "free, not available to BOINC: "
+msgstr "ala li lon ni. ilo BOINC li ken ala kepeken e ni"
+
+msgid "free: "
+msgstr "ala li lon ni: "
+
+msgid "invalid input value detected"
+msgstr "nanpa sina li ike"
+
+msgid "minimum length %d"
+msgstr "suli linja pi lili nanpa wan: %d"
+
+msgid "minutes"
+msgstr "tenpo ilo"
+
+msgid "more..."
+msgstr "ante mute..."
+
+msgid "multiple instances of BOINC Manager allowed"
+msgstr "sina ken kepeken e ilo lawa BOINC mute"
+
+msgid "need disk space - check preferences"
+msgstr "mi wile e poki sona suli - o lukin e toki wile"
+
+msgid "network bandwidth limit exceeded"
+msgstr "ilo li wawa tawa nanpa ni: nanpa pi wawa toki pi kulupu linja."
+
+msgid "never"
+msgstr "tenpo ala"
+
+msgid "no"
+msgstr "ala"
+
+msgid "no projects: 0 bytes used"
+msgstr "kulupu li lon ala: sina kepeken e sona pi mute 0b"
+
+msgid "on batteries"
+msgstr "moku tan poki wawa"
+
+msgid "pending"
+msgstr "awen"
+
+msgid "per hour"
+msgstr "kipisi tenpo ilo suli"
+
+msgid "per minute"
+msgstr "kipisi tenpo ilo"
+
+msgid "per second"
+msgstr "kipisi tenpo ilo lili"
+
+msgid "requested by operating system"
+msgstr "ilo lawa pi ilo sona li wile e ni"
+
+msgid "retry in "
+msgstr "sama li lon tenpo "
+
+msgid "seconds"
+msgstr "tenpo ilo lili"
+
+msgid "set skin debugging mode to enable skin manager error messages"
+msgstr "sina wile lukin e toki pakala la o open e ilo selo pi lukin pakala"
+
+msgid "shows the preferences web page"
+msgstr "ona li pana e lipu pi toki wile lon kulupu linja"
+
+msgid "starting up"
+msgstr "open"
+
+msgid "suspended"
+msgstr "li awen pini"
+
+msgid "time of day"
+msgstr "tenpo pi tenpo suno"
+
+msgid "to"
+msgstr "tawa"
+
+msgid "unknown reason"
+msgstr "tan nasa"
+
+msgid "used by BOINC: "
+msgstr "ilo BOINC li kepeken e: "
+
+msgid "used by other programs: "
+msgstr "ilo ante li kepeken e: "
+
+msgid "user request"
+msgstr "wile jan"
+
+msgid "wxWidgets Version:"
+msgstr "ante pi ilo wxWidgets:"
+
+msgid "yes"
+msgstr "lon"
