@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: BOINC\n"
 "Report-Msgid-Bugs-To: BOINC translation team <boinc_loc@ssl.berkeley.edu>\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-09-13 16:47+0300\n"
+"PO-Revision-Date: 2025-09-14 18:58+0300\n"
 "Last-Translator: Олександр Жиденко <alexander.zhidenko@gmail.com>, "
 "2017-2018,2022-2024\n"
 "Language-Team: jan Tlakonta\n"
@@ -37,7 +37,7 @@ msgid "% of memory"
 msgstr "% poki sona"
 
 msgid "% of the CPUs and at most"
-msgstr "% tenpo pali suli nanpa wan pi ilo nanpa lawa"
+msgstr "% wawa pi ilo nanpa lawa en"
 
 msgid "% of total"
 msgstr "% poki sona suli"
@@ -52,7 +52,7 @@ msgid "%s &help"
 msgstr "%s &sona pona"
 
 msgid "%s &web site"
-msgstr "%s &lipu lon kulupu linja"
+msgstr "%s &lipu linluwi"
 
 msgid "%s - (%s)"
 msgstr "%s - (%s)"
@@ -91,7 +91,7 @@ msgid "%s - Language Selection"
 msgstr "%s - o ante e toki"
 
 msgid "%s - Network Status"
-msgstr "%s - pilin pi kulupu linja"
+msgstr "%s - pilin linluwi"
 
 msgid "%s - Notices"
 msgstr "%s - toki sin tawa sina"
@@ -118,29 +118,29 @@ msgid "%s Notices"
 msgstr "toki sin tawa sina %s"
 
 msgid "%s failed to connect to the Internet."
-msgstr "%s li ken ala open toki lon kulupu linja."
+msgstr "%s li ken ala open toki linluwi."
 
 msgid "%s failed to disconnected from the Internet."
-msgstr "%s li ken ala pini toki lon kulupu linja."
+msgstr "%s li ken ala pini toki linluwi."
 
 msgid ""
 "%s has detected it is now connected to the Internet.\n"
 "Updating all projects and retrying all transfers."
 msgstr ""
-"%s li sona e ni: kulupu linja li open.\n"
+"%s li sona e ni: linluwi li open.\n"
 "ona li esun e lipu nanpa li kama sona e ijo sin kulupu."
 
 msgid "%s has successfully added %s"
 msgstr "%s li pana e %s"
 
 msgid "%s has successfully connected to the Internet."
-msgstr "%s li open e toki lon kulupu linja."
+msgstr "%s li open e toki linluwi."
 
 msgid "%s has successfully disconnected from the Internet."
-msgstr "%s li pini e toki lon kulupu linja."
+msgstr "%s li pini e toki linluwi."
 
 msgid "%s is connecting to the Internet."
-msgstr "%s li kama open e toki lon kulupu linja."
+msgstr "%s li kama open e toki linluwi."
 
 msgid "%s is distributed under the GNU Lesser General Public License v3.0."
 msgstr "lipu lawa GNU LGPL v 3.0 la jan li ken pana e %s."
@@ -184,7 +184,7 @@ msgid ""
 "%s needs to connect to the Internet.\n"
 "May it do so now?"
 msgstr ""
-"%s li wile toki lon kulupu linja.\n"
+"%s li wile toki linluwi.\n"
 "sina wile ala wile pana e ken?"
 
 msgid ""
@@ -201,7 +201,7 @@ msgid "%s task request deferred for"
 msgstr "wile toki pi %s li weka lon tenpo"
 
 msgid "%s total, %s average"
-msgstr "%s ale. %s ale kipisi tenpo ale"
+msgstr "%s ale. %s pi tenpo suno"
 
 msgid ""
 "%s will shut down the current client\n"
@@ -211,7 +211,7 @@ msgstr ""
 "li wile e nimi nasin tan ni: ona li wile toki tawa ilo sona ante."
 
 msgid "%s will use the most restrictive of the above settings"
-msgstr "%s li kama kepeken e toki wile lon sewi pi wawa nanpa wan"
+msgstr "ilo %s li kama kepeken e toki wile lon sewi pi wawa nanpa wan"
 
 msgid "&%s help"
 msgstr "&%s sona pona"
@@ -283,10 +283,10 @@ msgid "&Quit %s"
 msgstr "&weka tan %s"
 
 msgid "&Run always"
-msgstr "&pali lon tenpo ale"
+msgstr "&o pali lon tenpo ale"
 
 msgid "&Save"
-msgstr "&awen"
+msgstr "&o awen"
 
 msgid "&Set Default"
 msgstr "&toki lon tenpo open"
@@ -298,7 +298,7 @@ msgid "&Statistics\tCtrl+Shift+S"
 msgstr "&nanpa pali\t Ctrl+Shift+S"
 
 msgid "&Suspend"
-msgstr "&lape"
+msgstr "&o lape"
 
 msgid "&Synchronize with %s"
 msgstr "&kama sama %s"
@@ -331,9 +331,7 @@ msgid "'%s' is already in the list."
 msgstr "tenpo ni la '%s' li lon lipu."
 
 msgid "'In use' means mouse or keyboard input in last"
-msgstr ""
-"„mi kepeken ilo sona“ li ni: sina kepeken ilo pi sitelen nimi anu ilo luka "
-"lon tenpo"
+msgstr "„mi kepeken ilo sona“ li ni: sina kepeken ilo nena anu ilo luka lon "
 
 msgid "'In use' means mouse/keyboard input in last"
 msgstr ""
@@ -397,7 +395,7 @@ msgid "Abort File Transfer"
 msgstr "pini pana pi lipu nanpa"
 
 msgid "Abort Transfer"
-msgstr "pini pana"
+msgstr "o pini e pana"
 
 msgid "Abort task"
 msgstr "o pini pali e pali"
@@ -432,7 +430,7 @@ msgid "About %s"
 msgstr "sona pi %s"
 
 msgid "Account"
-msgstr "lipu jan"
+msgstr "jan"
 
 msgid "Account manager &URL:"
 msgstr "&nasin URL pi lawa pi lipu jan:"
@@ -450,7 +448,7 @@ msgid "Account manager temporarily unavailable"
 msgstr "tenpo ni la lawa pi lipu jan li wawa ala"
 
 msgid "Account manager web site"
-msgstr "lipu kulupu linja pi lawa pi lipu jan"
+msgstr "lipu linluwi pi lawa pi lipu jan"
 
 msgid "Account summary"
 msgstr "sona pi lipu jan"
@@ -510,10 +508,10 @@ msgid "Allow fetching new tasks for this project."
 msgstr "o pana e ken pi wile pali lon kulupu ni."
 
 msgid "Allow network activity according to preferences"
-msgstr "o pana e ken ni: toki wile la ilo sona li toki lon kulupu linja"
+msgstr "o pana e ken ni: toki wile la ilo sona li toki lon linluwi"
 
 msgid "Allow network activity regardless of preferences"
-msgstr "o pana e ken ni: ilo sona li toki lon kulupu linja"
+msgstr "o pana e ken ni: ilo sona li toki lon linluwi"
 
 msgid "Allow new tasks"
 msgstr "o pana e ken pi jo pali sin"
@@ -622,7 +620,7 @@ msgid "Autodetect"
 msgstr "lukin ilo"
 
 msgid "Avg. work done"
-msgstr "pali nasa ala pi tenpo suno"
+msgstr "pali pi tenpo suno"
 
 msgid "BOINC Manager"
 msgstr "ilo lawa BOINC"
@@ -648,18 +646,18 @@ msgid ""
 "3) You are using a proxy server.\n"
 "Click Next to configure BOINC's proxy settings."
 msgstr ""
-"ilo BOINC li ken ala toki tawa kulupu linja.\n"
+"ilo BOINC li ken ala toki tawa linluwi.\n"
 "ni li ken tan ni:\n"
-"1) linja li pakala.  o lukin e ilo toki nanpa anu toki wile\n"
-"pi toki kulupu linja. toki pi kulupu linja li lon la \n"
+"1) linja toki li pakala.  o lukin e ilo toki nanpa anu toki wile\n"
+"pi toki linluwi. toki linluwi li lon la \n"
 "o kepeken nena pi tawa monsi. o sama.\n"
 "\n"
-"2) ilo sina pi awen kulupu linja li weka e ken toki tan ilo BOINC.\n"
+"2) ilo sina pi awen linluwi li weka e ken toki tan ilo BOINC.\n"
 "o open e toki wile pi ilo pi awen kulupu.\n"
 "lupa nanpa 80 la o pana e ken toki tawa ilo BOINC.\n"
 "o kepeken e nena pi tawa monsi. o sama.\n"
 "\n"
-"3) sina kepeken e ilo kulupu linja pi sama toki.\n"
+"3) sina kepeken e ilo linluwi pi sama toki.\n"
 "o kepeken e nena pi tawa sinpin. o ante e toki wile pi ilo BOINC."
 
 msgid "C&onfirm password:"
@@ -675,7 +673,7 @@ msgid "CPU is busy"
 msgstr "ilo nanpa lawa li pali e pali ante"
 
 msgid "CPU time"
-msgstr "tenpo pi ilo nanpa lawa"
+msgstr "ilo nanpa lawa li pali lon tenpo"
 
 msgid "CPU time since checkpoint"
 msgstr "tenpo pi ilo nanpa lawa tan tenpo awen"
@@ -691,8 +689,8 @@ msgid ""
 "override your web-based preferences, even if you subsequently make changes "
 "there. Do you want to proceed?"
 msgstr ""
-"ante pi toki wile tomo lon lipu ni. ni li sitelen ante e toki wile pi ilo "
-"lon kulupu linja. sina wile ala wile e ni?"
+"ante pi toki wile tomo pi lipu ni. ni li ante e toki wile ilo lon linluwi. "
+"sina wile ala wile e ni?"
 
 msgid "Check for new %s version"
 msgstr "o lukin e ante sin %s"
@@ -707,8 +705,8 @@ msgid ""
 "Check this only if your Internet provider modifies image files. Skipping "
 "verification reduces the security of %s."
 msgstr ""
-"kulupu lawa pi kulupu linja sina li ante e lipu nanpa la o kepeken e ijo ni. "
-"taso awen pi %s li kama ike."
+"kulupu pi lawa linluwi sina li ante e lipu nanpa la o kepeken e ijo ni. taso "
+"awen pi %s li kama ike."
 
 msgid "Check this to suspend GPU computing when you're using the computer."
 msgstr "ijo ni la sina kepeken e ilo sona la ilo sitelen li pali ala."
@@ -737,7 +735,7 @@ msgid "Choose application or enter file name"
 msgstr "o wile e ilo ante anu sitelen e nimi pi lipu nanpa"
 
 msgid "Click Finish to close."
-msgstr "wile pini la o kepeken e nena pini"
+msgstr "o kepeken e nena pini"
 
 msgid "Click to use web prefs from"
 msgstr "sina wile kepeken e toki wile lipu la o kepeken e ni"
@@ -758,7 +756,7 @@ msgid "Close the dialog without saving"
 msgstr "o pini e toki. o awen ala e ante."
 
 msgid "Commands"
-msgstr "wile"
+msgstr "nena lawa"
 
 msgid "Common questions"
 msgstr "toki nasa ala pi wile sona"
@@ -813,7 +811,7 @@ msgid "Configure computing preferences"
 msgstr "o ante e toki wile pi pali nanpa"
 
 msgid "Configure display options and network settings"
-msgstr "o ante e sitelen e kulupu linja"
+msgstr "o ante e sitelen e toki wile linluwi"
 
 msgid "Configure display options and proxy settings"
 msgstr "o ante e sitelen e ilo pi sama toki"
@@ -822,7 +820,7 @@ msgid "Configure exclusive applications"
 msgstr "o ante e ilo ante wawa"
 
 msgid "Confirm before connecting to Internet"
-msgstr "tenpo pini pi toki tawa kulupu linja la o pana e ken"
+msgstr "tenpo pini pi toki linluwi la o pana e ken"
 
 msgid "Confirm defaults"
 msgstr "o pana e ken tawa nanpa pi tenpo open"
@@ -849,13 +847,13 @@ msgid "Connecting to %s"
 msgstr "mi pana e linja toki tawa %s"
 
 msgid "Connections"
-msgstr "linja toki mute"
+msgstr "linja toki"
 
 msgid "Copy &All"
-msgstr "o sama e &ale"
+msgstr "o sitelen e &ale tawa poki"
 
 msgid "Copy &Selected"
-msgstr "o sama e &ijo wile"
+msgstr "o sitelen e &ijo wile"
 
 msgid "Copy all messages"
 msgstr "o sama e lipu toki ale"
@@ -904,7 +902,7 @@ msgid "Current status of the Einstein@Home server"
 msgstr "sona sin pi ilo sona lawa Einstein@Home"
 
 msgid "Daily schedules"
-msgstr "lipu tenpo lawa pi tenpo suno"
+msgstr "lawa pi tenpo suno"
 
 msgid "Day-of-week override"
 msgstr "ante pi tenpo suno pi tenpo esun "
@@ -919,7 +917,7 @@ msgid "Default Connection:"
 msgstr "linja toki pi tenpo open:"
 
 msgid "Defaults"
-msgstr "ijo pi tenpo open"
+msgstr "nasin pi tenpo open"
 
 msgid ""
 "Delete all files and tasks associated with this project, and get new tasks.  "
@@ -933,8 +931,7 @@ msgstr "toki wile pi ilo sona"
 
 msgid "Dial-up and Virtual Private Network settings"
 msgstr ""
-"toki wile pi kulupu linja tan ilo toki en toki wile pi ilo len pi kulupu "
-"linja"
+"toki wile linluwi pi ilo toki (dial-up) en toki wile pi ilo len linluwi"
 
 msgid "Directory"
 msgstr "poki"
@@ -943,12 +940,10 @@ msgid "Directory containing the BOINC Client executable"
 msgstr "poki pi lipu wawa pi ilo BOINC"
 
 msgid "Discard all local preferences and use web-based preferences?"
-msgstr ""
-"o weka e toki wile tomo ale o kepeken e toki wile pi kulupu linja anu seme?"
+msgstr "o weka e toki wile tomo ale o kepeken e toki wile linluwi anu seme?"
 
 msgid "Discard local preferences and use web-based preferences?"
-msgstr ""
-"o weka e toki wile tomo o kepeken e toki wile pi kulupu linja anu seme?"
+msgstr "o weka e toki wile tomo o kepeken e toki wile linluwi anu seme?"
 
 msgid "Disconnect when done"
 msgstr "pali li pini la o pini e toki"
@@ -960,7 +955,7 @@ msgid "Disk"
 msgstr "poki sona suli"
 
 msgid "Disk usage"
-msgstr "mute kepeken pi poki sona suli"
+msgstr "kepeken pi poki sona suli"
 
 msgid "Disk usage by BOINC projects"
 msgstr "kulupu ale li kepeken e mute ni pi poki sona suli"
@@ -1023,7 +1018,7 @@ msgid "E&xit"
 msgstr "w&eka"
 
 msgid "E&xit %s"
-msgstr "o &weka %s"
+msgstr "o &weka tan %s"
 
 msgid "Einstein status"
 msgstr "ilo sona lawa Einstein@Home li piliin e ni:"
@@ -1032,7 +1027,7 @@ msgid "Elapsed"
 msgstr "mute pi tenpo pini"
 
 msgid "Elapsed time"
-msgstr "mute pi tenpo pini"
+msgstr "tenpo pini"
 
 msgid "Elapsed: %s"
 msgstr "mute pini: %s"
@@ -1059,7 +1054,7 @@ msgid "Estimated Completion"
 msgstr "ken pini"
 
 msgid "Estimated computation size"
-msgstr "ken la mute pi pali nanpa li"
+msgstr "ken la wawa pi pali nanpa li"
 
 msgid "Estimated time remaining"
 msgstr "pini li lon tenpo"
@@ -1077,7 +1072,7 @@ msgid "Exclusive applications..."
 msgstr "ilo ante wawa..."
 
 msgid "Executable"
-msgstr "ken pali"
+msgstr "ilo"
 
 msgid "Exit %s"
 msgstr "o weka tan %s"
@@ -1137,7 +1132,7 @@ msgid "GB"
 msgstr "GB"
 
 msgid "GB free"
-msgstr "GB li lon kepeken ala"
+msgstr "GB lon kepeken ala"
 
 msgid "GB of disk space"
 msgstr "GB pi poki sona suli"
@@ -1161,7 +1156,7 @@ msgid "GUI RPC port number"
 msgstr "nanpa pi ilo GUI RPC"
 
 msgid "General"
-msgstr "nasa ala"
+msgstr "ijo suli"
 
 msgid "Get current settings from %s"
 msgstr "o kama jo e toki wile pi tenpo ni tan %s"
@@ -1185,7 +1180,7 @@ msgid "HTTP proxy"
 msgstr "ilo HTTP pi sama toki"
 
 msgid "Help"
-msgstr "sona pona"
+msgstr "mi wile e sona pona"
 
 msgid "Hide %s"
 msgstr "o len e %s"
@@ -1209,7 +1204,7 @@ msgid "Host Total"
 msgstr "nanpa pali ale pi ilo sona lawa"
 
 msgid "Host location"
-msgstr "ma pi ilo sona"
+msgstr "ma pi ilo sona lawa"
 
 msgid "Host name or IP address"
 msgstr "nimi anu nanpa nasin IP pi ilo sona lawa"
@@ -1311,7 +1306,7 @@ msgid "Last scheduler reply"
 msgstr "toki sin pi ilo tenpo"
 
 msgid "Last update: %.0f days ago"
-msgstr "ante sin: %.0f tenpo suno pini"
+msgstr "sona sin: tenpo suno pini %.0f "
 
 msgid "Learn about the projects hosted at World Community Grid"
 msgstr "o sona e kulupu World Community Grid"
@@ -1334,7 +1329,7 @@ msgid ""
 msgstr "o lili e kepeken pi poki sona suli tan ni: %s li jo e sona lon ni."
 
 msgid "Limit download rate to"
-msgstr "o lili e mute kipisi tenpo pi kama jo"
+msgstr "o lili e wawa pi kama jo."
 
 msgid "Limit the download rate of file transfers."
 msgstr "o lili e mute kipisi tenpo pi kama jo pi lipu nanpa"
@@ -1351,7 +1346,9 @@ msgid ""
 msgstr "o lili e poki sona suli tawa %s."
 
 msgid "Limit the swap space (page file) used by %s."
-msgstr "%s li kepeken e lipu nanpa sona tan ni: . o lili e ni."
+msgstr ""
+"o lili e lipu nanpa sona. ilo %s li kepeken e ona tan ni: lipu li sama poki "
+"sona."
 
 msgid "Limit the total amount of disk space used by %s."
 msgstr "o lili e poki sona suli pi ilo %s."
@@ -1360,10 +1357,10 @@ msgid "Limit the upload rate of file transfers."
 msgstr "o lili e mute kipisi tenpo pana pi lipu nanpa."
 
 msgid "Limit upload rate to"
-msgstr "o lili e mute kipisi tenpo pana"
+msgstr "o lili e wawa pana."
 
 msgid "Limit usage to"
-msgstr "o lili e kepeken"
+msgstr "o lili e kepeken."
 
 msgid "Local: "
 msgstr "tomo: "
@@ -1372,7 +1369,7 @@ msgid "Login Failed."
 msgstr "pakala la sina ken ala tawa."
 
 msgid "MB every"
-msgstr "MB pi tenpo"
+msgstr "MB pi"
 
 msgid "Message"
 msgstr "lipu toki"
@@ -1393,7 +1390,7 @@ msgid "Missing application"
 msgstr "ilo ante li lon ala"
 
 msgid "Mode view"
-msgstr "ante lukin"
+msgstr "sitelen ante"
 
 msgid "Monday"
 msgstr "tenpo suno nanpa wan"
@@ -1414,28 +1411,28 @@ msgid "Name:"
 msgstr "nimi:"
 
 msgid "Network"
-msgstr "kulupu linja"
+msgstr "linluwi"
 
 msgid "Network activity always"
-msgstr "o kepeken e kulupu linja lon tenpo ale"
+msgstr "o kepeken e linluwi lon tenpo ale"
 
 msgid "Network activity based on preferences"
-msgstr "toki wile la o kepeken e kulupu linja"
+msgstr "toki wile la o kepeken e linluwi"
 
 msgid "Network activity is suspended - "
-msgstr "kepeken pi kulupu linja li pini - "
+msgstr "linluwi li kama wawa ala - "
 
 msgid "Network communication failure"
-msgstr "toki tawa kulupu linja li pakala"
+msgstr "toki linluwi li pakala"
 
 msgid "Network is enabled"
-msgstr "kulupu linja li lon"
+msgstr "linluwi li wawa"
 
 msgid "Network is suspended - "
-msgstr "mi ken ala kepeken e kulupu linja - "
+msgstr "linluwi li lape - "
 
 msgid "Network usage"
-msgstr "kepeken pi kulupu linja"
+msgstr "kepeken linluwi"
 
 msgid "New"
 msgstr "sin"
@@ -1447,7 +1444,7 @@ msgid "News"
 msgstr "sona sin"
 
 msgid "No Internet connection"
-msgstr "kulupu linja li lon ala"
+msgstr "linluwi li lon ala"
 
 msgid "No new tasks"
 msgstr "o kama jo ala e pali sin"
@@ -1471,7 +1468,7 @@ msgid "Not used: workaround for bug in XCode 4.2"
 msgstr "ni li lon kepeken ala tan ni: nasin sike pi pakala XCode 4.2 li lon"
 
 msgid "Notice reminder interval:"
-msgstr "toki sama pi lipu kalama:"
+msgstr "o kalama lon tenpo:"
 
 msgid "Notices"
 msgstr "lipu toki"
@@ -1492,7 +1489,7 @@ msgid "One project"
 msgstr "kulupu wan"
 
 msgid "Open %s Web..."
-msgstr "o lukin e %s lon kulupu linja..."
+msgstr "o lukin e %s lon linluwi..."
 
 msgid "Open %s..."
 msgstr "o open e %s..."
@@ -1504,7 +1501,7 @@ msgid "Open another %s window"
 msgstr "o open e lupa %s..."
 
 msgid "Open web page"
-msgstr "o open e lipu pi kulupu linja"
+msgstr "o open e lipu linluwi"
 
 msgid "Options"
 msgstr "toki wile"
@@ -1516,10 +1513,10 @@ msgid "Other"
 msgstr "ante"
 
 msgid "Override the times above on the selected days:"
-msgstr "tenpo suno wile la o ante e tenpo lon sewi:"
+msgstr "tenpo suno pi wile sina la o ante e tenpo lon sewi:"
 
 msgid "Page/swap file: use at most"
-msgstr "lipu nanpa sona o kepeken lili tawa"
+msgstr "lipu nanpa pi sama poki sona o kepeken lili tawa"
 
 msgid "Password"
 msgstr "nimi open"
@@ -1528,7 +1525,7 @@ msgid "Password:"
 msgstr "nimi open:"
 
 msgid "Please connect to the Internet and try again."
-msgstr "o pali e linja pi kulupu linja. o sama."
+msgstr "o pali e linja linluwi. o sama."
 
 msgid ""
 "Please download and install the CoRD application from http://"
@@ -1549,7 +1546,7 @@ msgid ""
 "(to create an account, visit the project's web site)"
 msgstr ""
 "o pana e sona pi lipu jan sina\n"
-"(sina wile e lipu jan la o kepeken e lipu kulupu pi kulupu linja)"
+"(sina wile e lipu jan la o kepeken e lipu kulupu lon linluwi)"
 
 msgid "Please read the following terms of use:"
 msgstr "o lukin e toki lawa kepeken:"
@@ -1597,7 +1594,7 @@ msgid "Pop up a menu of commands to apply to this task"
 msgstr "o lukin e lipu pi toki lawa pi pali ni"
 
 msgid "Pop up a menu of web sites for project %s"
-msgstr "o lukin e lipu pi lipu kulupu linja pi kulupu %s"
+msgstr "o lukin e lipu pi lipu linluwi pi kulupu %s"
 
 msgid "Port:"
 msgstr "lupa:"
@@ -1651,7 +1648,7 @@ msgid "Project URL:"
 msgstr "nasin URL kulupu:"
 
 msgid "Project Web Pages"
-msgstr "lipu kulupu mute pi kulupu linja"
+msgstr "lipu kulupu ale lon linluwi"
 
 msgid "Project added"
 msgstr "kulupu sin li lon"
@@ -1681,7 +1678,7 @@ msgid "Project temporarily unavailable"
 msgstr "tenpo ni la sina ken ala kepeken e kulupu"
 
 msgid "Project web pages"
-msgstr "lipu kulupu mute pi kulupu linja"
+msgstr "lipu kulupu ale lon linluwi"
 
 msgid "Projects"
 msgstr "kulupu mute"
@@ -1690,7 +1687,7 @@ msgid "Projects:"
 msgstr "kulupu mute:"
 
 msgid "Properties"
-msgstr "sona ijo"
+msgstr "sona ante"
 
 msgid "Properties of project "
 msgstr "sona kulupu "
@@ -1723,13 +1720,13 @@ msgid "Read the Einstein@Home Frequently Asked Question list"
 msgstr "o lukin e lipu pi toki wile sona pi kulupu Einstein@Home"
 
 msgid "Ready to report"
-msgstr "mi ken li kama toki"
+msgstr "ona li pini li tawa linluwi"
 
 msgid "Ready to start"
 msgstr "mi ken li kama open"
 
 msgid "Received"
-msgstr "mi jo"
+msgstr "mi kama jo e ni lon tenpo"
 
 msgid "Reconnecting to client."
 msgstr "toki nanpa tu tawa ilo lupa."
@@ -1779,13 +1776,13 @@ msgid "Report bug or enhancement request"
 msgstr "o toki lon pakala anu wile pona"
 
 msgid "Report deadline"
-msgstr "tenpo pini ni la o pana e pali pini"
+msgstr "tenpo moli"
 
 msgid "Report problems"
 msgstr "o toki lon ijo ike"
 
 msgid "Request tasks to checkpoint at most every"
-msgstr "o wile e awen nanpa lon tenpo"
+msgstr "o wile e awen nanpa lon "
 
 msgid "Requested by account manager"
 msgstr "ilo lawa pi lipu jan li wile e ni"
@@ -1812,7 +1809,7 @@ msgid "Reset project"
 msgstr "o pini e kulupu o open e kulupu"
 
 msgid "Resource share"
-msgstr "esun wawa"
+msgstr "kepeken wawa"
 
 msgid "Resources"
 msgstr "wawa"
@@ -1821,7 +1818,7 @@ msgid "Restore default settings"
 msgstr "o kepeken e toki wile pi tenpo open"
 
 msgid "Restore web-based preferences and close the dialog."
-msgstr "o kepeken e toki wile pi kulupu linja. o pini e lupa toki."
+msgstr "o kepeken e toki wile linluwi. o pini e lupa toki."
 
 msgid "Resume"
 msgstr "o awen pali"
@@ -1845,7 +1842,7 @@ msgid "Retrieving current status."
 msgstr "mi lukin e pilin pi tenpo ni."
 
 msgid "Retry Now"
-msgstr "tenpo ni la o sama"
+msgstr "o sama"
 
 msgid "Retry deferred file transfers and task requests"
 msgstr "o pana e lipu nanpa pi tenpo pini e toki pi wile pali."
@@ -1863,7 +1860,7 @@ msgid "Run Manager at login?"
 msgstr "sina open e ilo sona la ilo BOINC o open ala open?"
 
 msgid "Run based on &preferences"
-msgstr "lipu tenpo pali o kute e &toki wile"
+msgstr "o kute e &toki wile"
 
 msgid "Run tests that measure CPU speed"
 msgstr "o open e lukin ni: wawa pi ilo nanpa lawa li seme?"
@@ -1914,10 +1911,10 @@ msgid "Scheduler request pending"
 msgstr "toki wile tawa ilo tenpo li awen"
 
 msgid "Scheduling"
-msgstr "ilo tenpo li pali"
+msgstr "ilo tenpo"
 
 msgid "Scheduling priority"
-msgstr "ijo suli pi pali pi ilo tenpo"
+msgstr "ijo suli tawa ilo tenpo"
 
 msgid "Screensaver info"
 msgstr "sona pi ilo pi awen ilo lukin"
@@ -1926,7 +1923,7 @@ msgid "Search for help in our help system"
 msgstr "o alasa e sona lon ilo pona mi"
 
 msgid "See more information about %s on the web"
-msgstr "o lukin e sona mute pi %s lon kulupu linja"
+msgstr "o lukin e sona mute pi %s lon linluwi"
 
 msgid "Select a project to access with the controls below"
 msgstr "o wile e kulupu kepeken ilo lawa lon anpa"
@@ -1966,34 +1963,34 @@ msgstr ""
 "wile tomo."
 
 msgid "Show All"
-msgstr "o sitelen e ale"
+msgstr "o lukin e ale"
 
 msgid "Show VM Console"
-msgstr "o pana e ilo toki pi ilo sona nasa"
+msgstr "o lukin e ilo toki pi ilo sona nasa"
 
 msgid "Show VM Console in a window."
-msgstr "o pana e ilo toki pi ilo sona nasa tawa lupa sin"
+msgstr "o lukin e ilo toki pi ilo sona nasa lon lupa sin"
 
 msgid "Show active tasks"
-msgstr "o pana e pali wawa"
+msgstr "o lukin e pali wawa"
 
 msgid "Show al&l"
-msgstr "o sitelen e al&e"
+msgstr "o lukin e al&e"
 
 msgid "Show all &messages"
-msgstr "o sitelen e &lipu toki ale"
+msgstr "o lukin e &lipu toki ale"
 
 msgid "Show all messages"
-msgstr "o sitelen e lipu toki ale"
+msgstr "o lukin e lipu toki ale"
 
 msgid "Show all projects, one chart per project"
-msgstr "o sitelen e kulupu ale. kulupu wan li lon lipu wan."
+msgstr "o lukin e kulupu ale. kulupu wan li lon lipu wan."
 
 msgid "Show all tasks"
-msgstr "o sitelen e pali ale"
+msgstr "o lukin e pali ale"
 
 msgid "Show all tasks."
-msgstr "o sitelen e pali ale."
+msgstr "o lukin e pali ale."
 
 msgid "Show application graphics in a window."
 msgstr "o pana e sitelen ilo lon lupa"
@@ -2113,7 +2110,7 @@ msgid "Shows only the messages that are alerts"
 msgstr "o pana e lipu toki kalama taso"
 
 msgid "Shows the preferences web page."
-msgstr "ni li pana e lipu pi toki wile lon kulupu linja."
+msgstr "ni li pana e lipu pi toki wile linluwi."
 
 msgid "Shut down connected client..."
 msgstr "o pini e ilo lupa lon linja toki..."
@@ -2131,7 +2128,7 @@ msgid "Skin"
 msgstr "selo"
 
 msgid "Skip data verification for image files"
-msgstr "o alasa ala e pakala lon sona pi lipu nanpa sitelen"
+msgstr "o alasa ala e pakala lon sona pi lipu nanpa sitelen (image file)"
 
 msgid "Snooze"
 msgstr "kama lape"
@@ -2170,7 +2167,7 @@ msgid "Stop graphics"
 msgstr "o pini e sitelen nanpa"
 
 msgid "Stop network activity"
-msgstr "o pini e wawa pi kulupu linja"
+msgstr "o pini e linluwi"
 
 msgid "Stop running tasks when exiting the %s"
 msgstr "pini pi %s la o pini pali"
@@ -2252,11 +2249,11 @@ msgid "Suspend computing when your computer is busy running other programs."
 msgstr "ilo sona sina li kepeken e ilo ante la o lape e pali nanpa."
 
 msgid "Suspend network activity"
-msgstr "o pini e wawa pi kulupu linja"
+msgstr "o lape e linluwi"
 
 msgid ""
 "Suspend processor and network usage when these applications are running:"
-msgstr "o lape e ilo nanpa lawa e kulupu linja lon tenpo pali pi ilo ni:"
+msgstr "o lape e ilo nanpa lawa e linluwi lon tenpo pali pi ilo ni:"
 
 msgid "Suspend tasks for this project."
 msgstr "o lape e pali lon kulupu ni."
@@ -2271,7 +2268,7 @@ msgid "Suspend when computer is on battery"
 msgstr "ilo sona li moku e wawa tan poki wawa la o lape"
 
 msgid "Suspend when no mouse or keyboard input in last"
-msgstr "o lape tan ni: sina kepeken ala e ilo luka anu ilo nena lon tenpo"
+msgstr "o lape tan ni: sina kepeken ala e ilo luka anu ilo nena lon "
 
 msgid ""
 "Suspend when no mouse or keyboard input needs to be greater than 'in use' "
@@ -2305,10 +2302,10 @@ msgid "Suspended by user"
 msgstr "jan li lape e ona"
 
 msgid "Suspended via GUI"
-msgstr "ona li lape tan ilo kepeken pi nasin sitelen"
+msgstr "ona li lape tan ilo pi nasin sitelen"
 
 msgid "Switch between tasks every"
-msgstr "o ante e pali lon tenpo"
+msgstr "o ante e pali lon "
 
 msgid "Switch to the Simple View"
 msgstr "o kepeken e sitelen lili"
@@ -2332,7 +2329,7 @@ msgid "Tasks completed"
 msgstr "pali pini"
 
 msgid "Tasks failed"
-msgstr "pali li pakala"
+msgstr "pali pakala"
 
 msgid "Tasks:"
 msgstr "pali:"
@@ -2393,12 +2390,12 @@ msgid ""
 "Click Next to configure BOINC's proxy settings."
 msgstr ""
 "World Community Grid - ilo BOINC li ken ala toki \n"
-"lon kulupu linja. ni li ken tan ni :\n"
-"1) linja toki li ike.  o lukin e kulupu linja sina anu ilo toki kon.\n"
+"linluwi. ni li ken tan ni :\n"
+"1) linja toki li ike.  o lukin e linluwi sina anu ilo toki kon.\n"
 "o kepeken nena \"monsi\".\n"
 "\n"
-"2) ilo sina pi awen kulupu linja li weka e kulupu World Community\n"
-"Grid anu ilo BOINC tan kulupu linja. o pana e ken toki tawa\n"
+"2) ilo sina pi awen linluwi li weka e kulupu World Community\n"
+"Grid anu ilo BOINC tan linluwi. o pana e ken toki tawa\n"
 "ilo BOINC tawa ilo lawa BOINC kepeken lupa 80 kepeken lupa 443.\n"
 "o kepeken e nena \"monsi\". o sama\n"
 "\n"
@@ -2539,8 +2536,8 @@ msgstr "alasa e pali"
 
 msgid "To limit transfers by time of day, see the \"Daily Schedules\" section."
 msgstr ""
-"sina wile lili e tawa sona pi tenpo kipisi pi tenpo suno la o lukin e \"lipu "
-"tenpo lawa pi tenpo suno\"."
+"sina wile lili e tawa sona pi tenpo kipisi pi tenpo suno la o lukin e \"lawa "
+"pi tenpo suno\"."
 
 msgid "To report completed tasks"
 msgstr "o toki lon pali pini"
@@ -2550,11 +2547,11 @@ msgstr "o pana e lipu toki pi tenpo insa"
 
 msgid "To suspend by time of day, see the \"Daily Schedules\" section."
 msgstr ""
-"sina wile lape e ilo lon tenpo kipisi pi tenpo suno la o lukin e \"lipu "
-"tenpo lawa pi tenpo suno\"."
+"sina wile lape e ilo lon tenpo kipisi pi tenpo suno la o lukin e \"lawa pi "
+"tenpo suno\"."
 
 msgid "Total disk usage"
-msgstr "suli kepeken pi poki sona suli"
+msgstr "kepeken pi poki sona suli"
 
 msgid "Trans&fers\tCtrl+Shift+X"
 msgstr "pana &nasin\t Ctrl+Shift+X"
@@ -2635,7 +2632,7 @@ msgid "Use no more than"
 msgstr "o kepeken pi suli ala tawa ni:"
 
 msgid "Use web prefs"
-msgstr "o kepeken e toki wile pi kulupu linja"
+msgstr "o kepeken e toki wile linluwi"
 
 msgid "Useful only if you have a modem, ISDN or VPN connection."
 msgstr "sina kepeken e ilo toki kon anu ilo ISDN anu ilo VPN la ni li pona."
@@ -2666,17 +2663,17 @@ msgid ""
 "Click \"Use web prefs\" to use web-based preferences from"
 msgstr ""
 "toki wile tomo li wawa.\n"
-"sina wile kepeken toki wile pi kulupu linja la o luka e nena \"o kepeken e "
-"toki wile pi kulupu linja\". ni li tan "
+"sina wile kepeken toki wile linluwi la o luka e nena \"o kepeken e toki wile "
+"linluwi\". ni li tan "
 
 msgid "Using local prefs."
 msgstr "mi kepeken e toki wile tomo."
 
 msgid "Using web prefs from"
-msgstr "mi kepeken e toki wile pi kulupu linja tan"
+msgstr "mi kepeken e toki wile linluwi tan"
 
 msgid "Using web-based preferences from"
-msgstr "mi kepeken e toki wile pi kulupu linja tan"
+msgstr "mi kepeken e toki wile linluwi tan"
 
 msgid "Validation Error"
 msgstr "alasa ike li pakala"
@@ -2719,7 +2716,7 @@ msgid "Virtual memory size"
 msgstr "suli pi poki sona pi lon ala "
 
 msgid "Visit this account manager's web site"
-msgstr "o lukin e lipu pi kulupu linja pi ilo lawa ni"
+msgstr "o lukin e lipu linluwi pi ilo lawa ni"
 
 msgid "Volunteer for any or all of 30+ projects in many areas of science"
 msgstr "sina ken pali pi mani ala lon kulupu pi sona ante. 30+ kulupu li lon"
@@ -2728,7 +2725,7 @@ msgid "Waiting for memory"
 msgstr "mi awen tan ni: mi wile kepeken poki sona. ilo ante li kepeken e ona. "
 
 msgid "Waiting for network access"
-msgstr "mi awen tan ni: mi ken ala kepeken kulupu linja"
+msgstr "mi awen tan ni: mi ken ala kepeken linluwi"
 
 msgid "Waiting for shared memory"
 msgstr "mi awen tan ni: mi ken ala kepeken poki sona pi ilo mute."
@@ -2740,7 +2737,7 @@ msgid "Waiting to run"
 msgstr "mi awen. pali li kama."
 
 msgid "Web site:"
-msgstr "lipu pi kulupu linja:"
+msgstr "lipu linluwi:"
 
 msgid "Wednesday"
 msgstr "tenpo suno nanpa tu wan"
@@ -2881,7 +2878,7 @@ msgid "days of work"
 msgstr "tenpo suno pali"
 
 msgid "default"
-msgstr "nasin open"
+msgstr "nasin pi tenpo open"
 
 msgid "disable BOINC security users and permissions"
 msgstr "weka e nasin pi pakala ala pi ilo BOINC"
@@ -2893,7 +2890,7 @@ msgid "free, available to BOINC: "
 msgstr "ala li lon ni. ilo BOINC li ken kepeken e ni: "
 
 msgid "free, not available to BOINC: "
-msgstr "ala li lon ni. ilo BOINC li ken ala kepeken e ni"
+msgstr "ala li lon ni. ilo BOINC li ken ala kepeken e ni: "
 
 msgid "free: "
 msgstr "ala li lon ni: "
@@ -2917,7 +2914,9 @@ msgid "need disk space - check preferences"
 msgstr "mi wile e poki sona suli - o lukin e toki wile"
 
 msgid "network bandwidth limit exceeded"
-msgstr "ilo li wawa tawa nanpa ni: nanpa pi wawa toki pi kulupu linja."
+msgstr ""
+"ilo li pana e sona pi wawa mute. taso nanpa lawa pi kepeken linluwi li lili "
+"tawa ilo li utala e ilo"
 
 msgid "never"
 msgstr "tenpo ala"
@@ -2956,7 +2955,7 @@ msgid "set skin debugging mode to enable skin manager error messages"
 msgstr "sina wile lukin e toki pakala la o open e ilo selo pi lukin pakala"
 
 msgid "shows the preferences web page"
-msgstr "ona li pana e lipu pi toki wile lon kulupu linja"
+msgstr "ona li pana e lipu pi toki wile lon linluwi"
 
 msgid "starting up"
 msgstr "open"
@@ -2968,7 +2967,7 @@ msgid "time of day"
 msgstr "tenpo pi tenpo suno"
 
 msgid "to"
-msgstr "tawa"
+msgstr " "
 
 msgid "unknown reason"
 msgstr "tan nasa"
